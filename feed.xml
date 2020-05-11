@@ -1,0 +1,728 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr"><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="https://covprehension.org/feed.xml" rel="self" type="application/atom+xml" /><link href="https://covprehension.org/" rel="alternate" type="text/html" hreflang="fr" /><updated>2020-05-11T14:10:08+00:00</updated><id>https://covprehension.org/feed.xml</id><title type="html">CoVprehension</title><subtitle>Comprendre l'épidémie actuelle de COVID-19&lt;br&gt;Une question, un modèle</subtitle><entry><title type="html">Question 16 : L’immunité collective, une stratégie miracle ?</title><link href="https://covprehension.org/2020/04/28/q16.html" rel="alternate" type="text/html" title="Question 16 : L'immunité collective, une stratégie miracle ?" /><published>2020-04-28T00:00:00+00:00</published><updated>2020-04-28T00:00:00+00:00</updated><id>https://covprehension.org/2020/04/28/q16</id><content type="html" xml:base="https://covprehension.org/2020/04/28/q16.html">&lt;p&gt;VOICI UN TEMPLATE COMMUN A TOUS LES POSTS. IL SUFFIT DE COPIER L’INTEGRALITE DE SON CONTENU 
+ET DE LE COLLER DANS UN NOUVEAU FICHIER CREE, AVEC UN TITRE SUIVANT LA LOGIQUE DES POSTS PRECEDENTS
+Merci
+Arnaud&lt;/p&gt;
+
+&lt;p&gt;Taper texte directement ici. 
+Quelques astuces, à commencer par les listes :&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Insertion &lt;a href=&quot;https://covprehension.org/&quot;&gt;lien&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;italique&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;gras&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;em&gt;les deux&lt;/em&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;sous-titre&quot;&gt;sous-titre&lt;/h2&gt;
+
+&lt;p&gt;EXEMPLE IMAGE&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/posts/Q10-1.jpg&quot; class=&quot;full-size&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;EXEMPLE SIMULATEUR INTEGRE&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Si la fenêtre du simulateur est tronquée à l’affichage, il vous suffit d’effectuer un zoom arrière&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;#&quot; class=&quot;btn btn-primary&quot; onclick=&quot;loadIframeSimulator(10, this); return false;&quot;&gt;Simuler l’impact du confinement sur la courbe épidémique&lt;/a&gt;&lt;/p&gt;
+&lt;div class=&quot;iframeContainer&quot;&gt;&lt;/div&gt;
+
+&lt;p&gt;TEXTE BAS DE PAGE&lt;/p&gt;
+
+&lt;p&gt;C’est aussi simple que ça.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Rappel : les modèles développés sur ce site sont des modèles pédagogiques, bien plus simples que les modèles construits et mis en oeuvre par d’autres équipes scientifiques travaillant sur la COVID-19. Ils ne se substituent pas à ces modèles de référence et ne peuvent pas être utilisés à leur place pour mener des expertises, diagnostics ou pronostics. Notre objectif est de contribuer à la création, au sein de la population, d’une meilleure connaissance des moteurs de cette épidémie qui nous concerne toutes et tous.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/2020/03/26/q1-1.html&quot; class=&quot;btn btn-primary&quot;&gt;Aller plus loin&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">VOICI UN TEMPLATE COMMUN A TOUS LES POSTS. IL SUFFIT DE COPIER L’INTEGRALITE DE SON CONTENU ET DE LE COLLER DANS UN NOUVEAU FICHIER CREE, AVEC UN TITRE SUIVANT LA LOGIQUE DES POSTS PRECEDENTS Merci Arnaud</summary></entry><entry><title type="html">Question 15 : Tous égaux face au virus… Vraiment ?</title><link href="https://covprehension.org/2020/04/15/q15.html" rel="alternate" type="text/html" title="Question 15 : Tous égaux face au virus... Vraiment ?" /><published>2020-04-15T00:00:00+00:00</published><updated>2020-04-15T00:00:00+00:00</updated><id>https://covprehension.org/2020/04/15/q15</id><content type="html" xml:base="https://covprehension.org/2020/04/15/q15.html">&lt;p&gt;&lt;strong&gt;INTRODUCTION&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Depuis l’émergence de la COVID-19 en Europe, les caractéristiques sociales des malades interrogent. Le virus venant de Chine, les premiers cas ont été “importés” soit par des chinois voyageant hors du pays, soit par des voyageurs revenant chez eux depuis la Chine puis progressivement depuis les premiers autres pays infectés (Egypte, Iran, Italie…). Or, &lt;a href=&quot;http://icmigrations.fr/2020/04/07/defacto-018-04/&quot;&gt;les touristes ou les professionnels voyageant hors d’Europe sont issus des classes les plus aisées&lt;/a&gt; (diplomates, commerciaux…).&lt;/p&gt;
+
+&lt;p&gt;En France, et à Paris notamment, un des premiers foyers a été l’Assemblée Nationale puis le conseil des ministres. La médiatisation de l’infection de certaines personnalités et têtes couronnées à travers le monde a pu faire penser que la COVID-19 était une “Maladie de riches”. On retrouve ces mêmes analyses dans les médias de nombreux pays (&lt;a href=&quot;https://www.courrierinternational.com/article/analyse-le-covid-19-en-russie-serait-il-une-maladie-de-riches&quot;&gt;Russie&lt;/a&gt;, &lt;a href=&quot;https://www.francebleu.fr/infos/faits-divers-justice/l-ukraine-et-le-cluster-de-courchevel-1585849179&quot;&gt;Ukraine&lt;/a&gt;, ou encore au &lt;a href=&quot;https://www.france24.com/fr/20200407-comment-le-coronavirus-est-devenu-une-affaire-de-classes-en-am%C3%A9rique-du-sud&quot;&gt;Brésil, au Mexique ou en Uruguay&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;Dans le même temps, de nombreux commentateurs ont clamé que le virus était aveugle aux différences socio-économiques. &lt;a href=&quot;https://www.theatlantic.com/international/archive/2020/03/boris-johnson-coronavirus-britain/608899/&quot;&gt;The Atlantic&lt;/a&gt; affirme par exemple, à propos de Boris Johnson, que son infection illustre le fait que la maladie est universelle, qu’elle touche tous les groupes de la société sans se soucier de la richesse ou de la taille. En effet, lorsque l’épidémie a commencé à se propager, toutes les catégories de la population ont été touchées, le virus ne discriminant pas directement ses hôtes selon leur classe sociale ou leur niveau de revenu.&lt;/p&gt;
+
+&lt;p&gt;En revanche, les conséquences ne sont pas équivalentes pour tout le monde. L’état de santé (les co-morbidités) au moment de l’infection, ou l’âge, fragilisent ainsi les personnes infectées et aggravent souvent les symptômes. Suivant la qualité de vie de la personne infectée, ses activités professionnelles ou son mode de transport habituel, les mesures telles que les fameux “gestes barrières” peuvent être plus ou moins aisées à appliquer. On peut rajouter à cela les différences d’accès aux soins et à l’information, qui varient nettement selon le niveau social des personnes et leur socialisation (comme a pu le montrer &lt;a href=&quot;https://www.ouest-france.fr/europe/suede/en-suede-le-coronavirus-revele-les-failles-du-modele-d-integration-6811742&quot;&gt;la propagation importante du virus parmi les étrangers vivant en Suède et n’ayant pas accès aux informations diffusées en suédois dans les médias du pays&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Dans ce post, nous présentons un modèle qui illustre la diffusion sociale et spatiale du virus parmi les individus de trois classes sociales avec des caractéristiques distinctes, et entre des villes différentes. 
+Le mode de transmission du  virus est le même pour toutes les classes sociales : il suffit d’un contact rapproché entre deux personnes (avec une probabilité non-nulle de transmission, comme dans les questions précédentes). 
+En revanche, les situations de mise en contact des individus (et donc leur potentielle contamination) dépendent de plusieurs éléments qui eux sont directement liés à leurs classes  sociales.&lt;/strong&gt; 
+La réalité sociale est complexe et les classes sociales se définissent selon des lignes floues et multiples, en fonction de variables importantes telles que le niveau d’éducation et le revenu. Nous retiendrons ici deux éléments qui nous semblent jouer &lt;a href=&quot;https://www.college-de-france.fr/site/didier-fassin/L-illusion-dangereuse-de-legalite-devant-lepidemie.htm&quot;&gt;un rôle plus particulier dans la dynamique épidémique actuelle&lt;/a&gt; :&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;L’envergure géographique de l’activité professionnelle habituelle (c’est-à-dire, en gros, la distance au domicile et la fréquence des déplacements) et le fait que cette activité  puisse être menée à distance (télétravail) ou non en cas de confinement.&lt;/li&gt;
+  &lt;li&gt;La situation résidentielle:
+    &lt;ul&gt;
+      &lt;li&gt;la situation principale en habitat collectif ou individuel&lt;/li&gt;
+      &lt;li&gt;la possibilité de disposer d’une résidence secondaire isolée. 
+Les différences induites dans le confinement et son confort sont criantes et immédiatement perçues.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;En général, la position sociale des individus recoupe ces deux dimensions de sorte qu’en majorité (notamment dans les villes) : les plus favorisés ont une envergure géographique importante (ils se déplacent plus loin et plus souvent, pour le travail comme en vacances, etc.), peuvent plus souvent exercer leur activité en télétravail (comme le suggèrent &lt;a href=&quot;https://www.nytimes.com/interactive/2020/04/03/us/coronavirus-stay-home-rich-poor.html?action=click&amp;amp;module=Top%20Stories&amp;amp;pgtype=Homepage&quot;&gt;ces premiers chiffres&lt;/a&gt; concernant les villes américaines par niveau de richesse), disposent plus fréquemment d’un logement principal individuel et plus fréquemment d’une résidence secondaire. Evidemment, il existe des chirurgiens vivant dans des immeubles collectifs et travaillant en présentiel proche de chez eux, et des employés de bureau pouvant travailler de chez eux dans un petit pavillon.
+Mais ici nous simplifions et définissons les personnes “privilégiées” (&lt;strong&gt;représentés par des triangles&lt;/strong&gt;) comme celles qui peuvent travailler à distance, depuis un logement principal individuel (un pavillon par exemple). Ces caractéristiques les favorisent notamment puisque leur isolation professionnelle et résidentielle les protège du virus. Ils ont donc à la fois un statut de favorisés socialement mais aussi intuitivement face à la propagation du virus puisqu’ils peuvent réduire sans trop de contrainte logistique leur nombre de contacts.
+Au contraire, ceux que nous appelons les “défavorisés” (&lt;strong&gt;représentés par des cercles&lt;/strong&gt;) sont ici ceux qui ne peuvent pas télétravailler (comme les aides-soignant.e.s, caissier.ère.s, agents de police, de propreté, etc.) et qui vivent en habitat collectif. Leur activité professionnelle et leur habitat favorisent la propagation du virus puisqu’ils peuvent transmettre ou recevoir le virus lorsqu’ils travaillent à l’extérieur, mais également lorsqu’ils reviennent chez eux. On suppose en effet que le partage d’un ascenseur, d’un digicode, d’un local à poubelles, ou l’interaction avec des voisin(e)s rend possible la transmission du virus.
+Dans notre modélisation certains individus ont un statut intermédiaire (“classe moyenne”) et sont &lt;strong&gt;représentés par des carrés&lt;/strong&gt;. Ils partagent une seule caractéristique avec chacune des 2 classes précédentes. Par exemple ils vivent en habitat collectif mais peuvent télétravailler, ou bien ils habitent en maison individuelle mais ne peuvent pas travailler à distance. Ils occupent donc une position intermédiaire entre favorisés et défavorisés.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;DESCRIPTION DU MODELE&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Dans la simulation, 1 personne en emploi (choisie au hasard) sur 2 doit continuer à travailler sur place tandis que l’autre moitié des personnes peuvent télétravailler. Si l’on additionne le poids des secteurs de la santé (7.1% des emplois), du social (7.4%), du commerce (12.9%) de l’administration (9.1%), des transports (5.5%) et de la finance (4.6%), on aboutit, pour la France, à peu près à ce chiffre de 50% des emplois en présentiel. De la même manière, 1 personne (choisie au hasard) sur 2 réside en habitat individuel tandis que l’autre moitié réside en habitat collectif (ce chiffre varie fortement en France selon les contextes régionaux et urbains). En croisant ces deux proportions, on aboutit alors à une société simulée dans laquelle environ 1 personne sur 4 est “privilégiée”, 1 personne sur 4 est “défavorisée” et 2 personnes sur 4 sont considérées comme “classe moyenne”.&lt;/p&gt;
+
+&lt;p&gt;La mobilité de tous les individus s’opère à deux échelles : les mobilités qui se font principalement dans la ville de résidence (échelle urbaine), et une mobilité entre villes (échelle interurbaine). En effet certains agents favorisés peuvent avoir un emploi dans une autre ville que celle de leur résidence.&lt;/p&gt;
+
+&lt;p&gt;Le modèle représente une région type, avec une grande ville et des villes plus petites liées entre elles par des infrastructures de transport permettant de se rendre d’une ville à l’autre. Comme dans la plupart des pays, plus la ville est grande, plus elle est densément peuplée (cf. illustration ci-dessous). Par exemple, il y a environ 4 personnes par case dans la plus grande ville et environ 1 personne par case dans la plus petite.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/posts/Q15-1.png&quot; class=&quot;half-size&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Chaque jour, une personne peut se rendre dans 3 lieux différents au maximum:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;Son lieu de travail&lt;/strong&gt;. Les lieux de travail sont représentés par les
+    &lt;ul&gt;
+      &lt;li&gt;&lt;em&gt;drapeaux noirs&lt;/em&gt; pour les emplois non télétravaillés (par exemple : les hôpitaux, les centres de traitement des déchets, les supermarchés…)&lt;/li&gt;
+      &lt;li&gt;&lt;em&gt;drapeaux gris&lt;/em&gt; pour les emplois dont les lieux de travail ne seront plus utilisés lorsque le confinement sera imposé (car accessibles virtuellement ou fermés). Nous avons reproduit la situation suivante : les lieux de travail sont plus concentrés dans les grandes villes que les lieux d’habitations. Ainsi, certaines personnes doivent aller travailler dans une ville plus grande que celle où ils habitent.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Un lieu tiers (par exemple faire ses courses&lt;/strong&gt; ou visiter un médecin etc.), c’est-à-dire un endroit public o? se rendre par nécessité mais qui est aussi un lieu de travail pour les personnes qui ne peuvent pas télétravailler, et ce, en moyenne un jour sur quatre. Par simplicité, nous conservons la même fréquence avant et après le confinement, même si elle est sûrement plus forte avant le confinement qu’après.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Son domicile&lt;/strong&gt; (en habitat collectif ou individuel).&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;La contamination peut se faire dans chacun de ces lieux, sauf le domicile pour les personnes vivant en habitat individuel. Les personnes vivant en habitat collectif ont donc un risque supplémentaire de se faire contaminer chaque jour.&lt;/p&gt;
+
+&lt;p&gt;Au début d’une simulation, une personne au hasard est infectée par le virus. Le modèle représente ensuite la diffusion de l’épidémie dans la population.&lt;/p&gt;
+
+&lt;p&gt;Lorsque le seuil des 10 morts est passé, un confinement obligatoire est imposé : tous ceux qui peuvent télétravailler le font, tandis que les autres continuent à se rendre sur leur lieu de travail habituel.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;L’EPIDEMIE EST-ELLE AVEUGLE AUX CLASSES SOCIALES?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Regardons l’évolution de l’infection dans chaque classe de population, en arrêtant la simulation régulièrement pour faire un point de la situation. 
+Au bout de &lt;strong&gt;35 jours&lt;/strong&gt; (première série de graphiques), l’épidémie n’en est qu’au début : sur le graphique de gauche (“situation épidémique globale”) la courbe bleue-verte des infectés est bien en dessous de la courbe beige des gens qui sont sains, le nombre de malades n’est pas très élevé. Lorsque l’on regarde l’évolution de l’épidémie par “classe sociale”, on observe que les privilégiés sont proportionnellement plus atteints que les autres (la courbe violette du graphique de droite est au-dessus des autres sur les 10 derniers jours) dans cette simulation, même si cela varie un peu selon les simulations (car le hasard intervient aussi un peu). Par ailleurs, très peu de gens sont morts et le confinement n’est pas encore imposé. Enfin si on s’intéresse au lieu de contamination, environ un tiers des gens (toute classe confondue) attrapent le virus sur leur lieu de travail.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/posts/Q15-2.png&quot; class=&quot;full-size&quot; /&gt; 
+&lt;strong&gt;Jour 35&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Continuons la simulation jusqu’au &lt;strong&gt;jour 70&lt;/strong&gt;. Depuis le jour 35, le seuil des 10 morts a été franchi et le confinement a été imposé. On peut déjà observer ses premiers effets sur l’épidémie. Les classes privilégiées ne sont pas obligées de se déplacer pour aller travailler. Comme ils sont en habitation isolée, ils n’ont plus qu’une seule occasion de se faire contaminer : aller dans les lieux tiers tous les 4 jours en moyenne. Leur contamination diminue donc très rapidement (graphique de droite, courbe violette). Si le confinement diminue le nombre de personnes rencontrées pendant la journée pour toute la population, l’ampleur de la baisse n’est pas du tout la même effet pour toutes les classes sociales. Ceux qui ne peuvent pas télétravailler et qui partagent leur lieu de résidence (les “défavorisés”) ont encore plusieurs contacts par jour et sont de plus en plus atteints par le virus (la courbe verte continue de monter et dépasse le niveau des deux autres en proportion). Ils ne profitent donc pas autant du confinement que les autres.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/posts/Q15-3.png&quot; class=&quot;full-size&quot; /&gt; 
+&lt;strong&gt;Jour 70&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Au &lt;strong&gt;jour 115&lt;/strong&gt; de cette simulation, l’épidémie est presque terminée. La proportion de personnes infectées dans la classe des “défavorisés” est deux fois plus importante que dans celle des “privilégiés”, tandis que les “classes moyennes” se situent entre les deux. Près de 9% de l’ensemble des individus classés comme “défavorisés” sont morts, contre moins de 5% pour les individus classés comme “privilégiés” et les “classes moyennes”. Ces chiffres peuvent varier selon les simulations mais la tendance est toujours la même après le confinement. Par ailleurs, parmi ceux qui ont été contaminés, moins d’1 individu favorisé sur 5 l’a été par son lieu de travail, alors que c’est plus d’1 individu défavorisé sur 2.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/posts/Q15-4.png&quot; class=&quot;full-size&quot; /&gt; 
+&lt;strong&gt;Jour 115&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;A VOUS DE JOUER!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Comme dans les questions précédentes, un simulateur vous permet d’explorer la simulation vous-même. Pour mettre en place la simulation, cliquez sur le bandeau bleu ci-dessous, puis lorsque l’interface du modèle s’affiche, sur “Initialiser”. Pour commencer la simulation, appuyez sur “Simuler”. Vous verrez les graphiques et la carte s’actualiser au fur et à mesure que le temps passe. La simulation s’arrête automatiquement lorsque l’épidémie est terminée. Cela peut prendre quelques minutes.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Si la fenêtre du simulateur est tronquée à l’affichage, il vous suffit d’effectuer un zoom arrière&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;#&quot; class=&quot;btn btn-primary&quot; onclick=&quot;loadIframeSimulator(15, this); return false;&quot;&gt;Simuler l’impact de l’épidémie sur les différentes classes sociales&lt;/a&gt;&lt;/p&gt;
+&lt;div class=&quot;iframeContainer&quot;&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;ET LES RESIDENCES SECONDAIRES DANS TOUT CA?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;On a beaucoup entendu parler des résidences secondaires au moment du confinement : que ce soit autorisé en Russie, ou déconseillé en France, beaucoup de gens ont fui les villes pour s’isoler “au vert”. Paris et l’Ile-de-France par exemple auraient perdu 17% de leurs habitants d’après &lt;a href=&quot;http://www.leparisien.fr/high-tech/17-des-parisiens-ont-quitte-la-capitale-comment-orange-a-pu-calculer-cet-exode-26-03-2020-8288586.php&quot;&gt;certaines estimations issues du suivi des téléphones portables&lt;/a&gt;. La presse a beaucoup communiqué sur les populations bourgeoises qui sont allées se réfugier dans leur résidence secondaire au bord de la mer, au mépris de toutes les règles sanitaires et au risque de contaminer les populations locales dans des régions dont le système de santé n’est pas  forcément bien équipé hors-saison. Bien sûr, la réalité est plus complexe et &lt;a href=&quot;https://soundcloud.com/cnrs_officiel/covid19-exode-parisiens?in=cnrs_officiel/sets/covid19-parole-a-la-science&quot;&gt;”l’exode des parisiens”&lt;/a&gt; est composé de quelques départs en maisons secondaires, principalement depuis le centre dense de la capitale, mais aussi du retour de certains étudiants chez leurs parents, ou de départs en province pour prendre soin de la famille…&lt;/p&gt;
+
+&lt;p&gt;Dans le modèle présenté dans cette question, nous proposons une version très simplifiée du phénomène : nous avons supposé que les plus défavorisés n’avaient pas de maison secondaire, contre 5% dans la classe moyenne et 10% des plus favorisés (en moyenne en France, c’est &lt;a href=&quot;https://www.insee.fr/fr/statistiques/3620894&quot;&gt;10% des logements qui sont des résidences secondaires&lt;/a&gt; ; cela ne signifie pas que 10% de la population en possède une, car certains sont multi- ou co-propriétaires, etc. Nous gardons donc le chiffre de 10% pour les plus favorisés, moitié moins pour les “classes moyennes”, et 0 pour les moins favorisés). Ces maisons secondaires sont situées hors des villes et sont isolées. Une fois que les habitants y sont confinés ils ne sortent plus.&lt;/p&gt;
+
+&lt;p&gt;En activant le bouton “résidences-secondaires?” en bas à gauche du simulateur &lt;strong&gt;avant d’initialiser le modèle&lt;/strong&gt;, vous pouvez observer par vous-même l’impact des résidences secondaires sur la propagation de l’épidémie..&lt;/p&gt;
+
+&lt;p&gt;La présence de maisons secondaires limite quelque peu le nombre de contagions et donc de décès, mais uniquement pour les plus favorisés. Elles ont donc ici un impact positif mais toujours en faveur des plus favorisés.
+Le confinement profite toujours à tout le monde en limitant les contacts de manière globale (cf. &lt;a href=&quot;https://covprehension.org/2020/04/01/q9.html&quot;&gt;question 9&lt;/a&gt;), même si les individus classés comme défavorisés en bénéficient moins que les autres car ils sont plus souvent obligés de continuer à avoir des contacts dans le cadre de leur travail et dans leur habitat collectif.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Le virus est aveugle, mais la chance de l’éviter ne l’est pas. En ne regardant que deux éléments discriminants (l’habitat et l’accès au télétravail)  on voit que ce sont systématiquement les moins privilégiés de nos sociétés qui en payent le prix fort. Alors on espère que les mesures sociales de redistribution seront à la hauteur…&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;C’est (presque!) aussi simple que ça.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;NB. La question des inégalités sociales face au virus est vaste et toutes les dimensions n’ont pas été abordées ici. Les variations sociales liées à l’utilisation des transports en commun, les inégalités de confort dans le confinement, l’accès aux soins et à l’information jouent aussi un rôle très important dans les conséquences de l’épidémie actuelle sur la société. Ces questions feront l’objet de publications ultérieures. A suivre!&lt;/em&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;Rappel : les modèles développés sur ce site sont des modèles pédagogiques, bien plus simples que les modèles construits et mis en oeuvre par d’autres équipes scientifiques travaillant sur la COVID-19. Ils ne se substituent pas à ces modèles de référence et ne peuvent pas être utilisés à leur place pour mener des expertises, diagnostics ou pronostics. Notre objectif est de contribuer à la création, au sein de la population, d’une meilleure connaissance des moteurs de cette épidémie qui nous concerne toutes et tous.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;</content><author><name></name></author><summary type="html">INTRODUCTION</summary></entry><entry><title type="html">Question 14 : Le traçage rétroactif des contacts par une application mobile peut-il faire la différence ?</title><link href="https://covprehension.org/2020/04/14/q14.html" rel="alternate" type="text/html" title="Question 14 : Le traçage rétroactif des contacts par une application mobile peut-il faire la différence ?" /><published>2020-04-14T00:00:00+00:00</published><updated>2020-04-14T00:00:00+00:00</updated><id>https://covprehension.org/2020/04/14/q14</id><content type="html" xml:base="https://covprehension.org/2020/04/14/q14.html">&lt;p&gt;VOICI UN TEMPLATE COMMUN A TOUS LES POSTS. IL SUFFIT DE COPIER L’INTEGRALITE DE SON CONTENU 
+ET DE LE COLLER DANS UN NOUVEAU FICHIER CREE, AVEC UN TITRE SUIVANT LA LOGIQUE DES POSTS PRECEDENTS
+Merci
+Arnaud&lt;/p&gt;
+
+&lt;p&gt;Taper texte directement ici. 
+Quelques astuces, à commencer par les listes :&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Insertion &lt;a href=&quot;https://covprehension.org/&quot;&gt;lien&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;italique&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;gras&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;em&gt;les deux&lt;/em&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;EXEMPLE IMAGE&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/posts/Q10-1.jpg&quot; class=&quot;full-size&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;EXEMPLE SIMULATEUR INTEGRE&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Si la fenêtre du simulateur est tronquée à l’affichage, il vous suffit d’effectuer un zoom arrière&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;#&quot; class=&quot;btn btn-primary&quot; onclick=&quot;loadIframeSimulator(10, this); return false;&quot;&gt;Simuler l’impact du confinement sur la courbe épidémique&lt;/a&gt;&lt;/p&gt;
+&lt;div class=&quot;iframeContainer&quot;&gt;&lt;/div&gt;
+
+&lt;p&gt;TEXTE BAS DE PAGE&lt;/p&gt;
+
+&lt;p&gt;C’est aussi simple que ça.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Rappel : les modèles développés sur ce site sont des modèles pédagogiques, bien plus simples que les modèles construits et mis en oeuvre par d’autres équipes scientifiques travaillant sur la COVID-19. Ils ne se substituent pas à ces modèles de référence et ne peuvent pas être utilisés à leur place pour mener des expertises, diagnostics ou pronostics. Notre objectif est de contribuer à la création, au sein de la population, d’une meilleure connaissance des moteurs de cette épidémie qui nous concerne toutes et tous.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/2020/03/26/q1-1.html&quot; class=&quot;btn btn-primary&quot;&gt;Aller plus loin&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">VOICI UN TEMPLATE COMMUN A TOUS LES POSTS. IL SUFFIT DE COPIER L’INTEGRALITE DE SON CONTENU ET DE LE COLLER DANS UN NOUVEAU FICHIER CREE, AVEC UN TITRE SUIVANT LA LOGIQUE DES POSTS PRECEDENTS Merci Arnaud</summary></entry><entry><title type="html">Question 13 : Certains pays n’ont pas choisi le confinement total mais le confinement ciblé : est-il possible de juguler ainsi une épidémie ?</title><link href="https://covprehension.org/2020/04/08/q13.html" rel="alternate" type="text/html" title="Question 13 : Certains pays n’ont pas choisi le confinement total mais le confinement ciblé : est-il possible de juguler ainsi une épidémie ?" /><published>2020-04-08T00:00:00+00:00</published><updated>2020-04-08T00:00:00+00:00</updated><id>https://covprehension.org/2020/04/08/q13</id><content type="html" xml:base="https://covprehension.org/2020/04/08/q13.html">&lt;p&gt;Ne pas confiner totalement sa population a été un choix fait par plusieurs pays, dont la Suède, par exemple, qui laisse encore aujourd’hui les individus décider eux-mêmes s’ils restent chez eux ou continuent à vaquer à leurs occupations. La logique des dirigeants a été de préserver l’activité économique tout en permettant à tout un chacun de participer activement à la lutte contre la diffusion de la maladie, à son échelle. On peut dire qu’il s’agit d’un choix de décentralisation des décisions, et la simulation agents, technique proposée sur ce site, est souvent utilisée pour traiter de ces questions.&lt;/p&gt;
+
+&lt;p&gt;Les recommandations données à la population en Suède sont  :&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;bien respecter les gestes « barrière » dans chaque interaction quotidienne,&lt;/li&gt;
+  &lt;li&gt;se confiner dès qu’on a un soupçon sur son état de santé,&lt;/li&gt;
+  &lt;li&gt;ne ressortir que quelques jours après être remis&lt;/li&gt;
+  &lt;li&gt;éviter de se rassembler (les rassemblements de plus de 50 personnes ont été interdits).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Pour pouvoir mettre en place une telle politique il faut au moins deux pré-requis qui ne sont pas universels : tout d’abord que les symptômes  de la COVID-19 dans ses formes les plus légères soient connues de la population, afin que chacun puisse décider s’il est ou non infecté ; ensuite que chaque travailleur soit soutenu sérieusement par l’Etat pour négocier avec son employeur la possibilité de se mettre en télé-travail ou en arrêt maladie alors que l’accès à un médecin n’est pas toujours immédiat.&lt;/p&gt;
+
+&lt;p&gt;Ces pré-requis permettent de poser l’hypothèse dans notre modèle que les individus sont véritablement autonomes dans la gestion de leur comportement.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Présentation du modèle&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Le modèle utilisé est basé sur le modèle de la &lt;a href=&quot;https://covprehension.org/2020/03/30/q6.html&quot;&gt;question 6&lt;/a&gt; du confinement qui a été adapté en particulier pour prendre en compte la possibilité d’un &lt;strong&gt;confinement ciblé&lt;/strong&gt;. La taille de population a été augmentée à 1000 : cela rend le modèle visuellement un peu moins lisible mais permet d’observer plus de phénomènes dans la durée ; dans le même temps, le mode de transmission a été légèrement transformé. Enfin, la dernière modification est que chaque agent qui est considéré comme immunisé (après la maladie) n’a plus à rester confiné et peut sortir vaquer à ses occupations.&lt;/p&gt;
+
+&lt;p&gt;En début de simulation il y a un unique agent infecté : « agent zéro ». Chaque jour, un agent a jusqu’à trois interactions à l’extérieur de la maison et une interaction par habitant de la maison.&lt;/p&gt;
+
+&lt;p&gt;Un agent “raisonnable” est un agent dont les interactions sont moins contagieuses grâce aux gestes “barrière” et qui se confine dès qu’il est conscient d’être malade – il n’est plus alors en contact qu’avec sa famille.&lt;/p&gt;
+
+&lt;p&gt;La règle de transmission de base est telle que : à chaque pas de temps, l’agent A interagit au hasard avec un agent B dans son voisinage. Si A et B sont déjà infectés ou si aucun des deux n’est infecté, il ne se passe rien. Si B est infecté et A ne l’est pas, alors A devient infecté avec une probabilité de 20%. Cette probabilité change si les agents sont raisonnables : si seul A ou seul B est raisonnable, alors la probabilité est divisée par 2 ; si A et B sont raisonnables, la probabilité est divisée par 4.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Nous pouvons maintenant tester ce modèle.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Commençons par tester le modèle avec les deux situations extrêmes : sans aucun confinement (ce qui permet d’observer la courbe épidémique de base) puis avec confinement parfaitement respecté, c’est-à-dire lorsque tous les agents appliquent les gestes “barrière” et se confinent dès qu’ils sont malades.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Illustration -&lt;/em&gt;&lt;/strong&gt; &lt;em&gt;Situation sans confinement. Les agents infectés qui semblent apparaître spontanément au milieu de l’image ont été contaminés au domicile, par un agent de leur foyer.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/posts/Q13-Gif-ssconf.gif&quot; class=&quot;half-size&quot; /&gt;
+&lt;img src=&quot;/img/posts/Q13-ssconf-fr.jpg&quot; class=&quot;half-size&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;La situation avec confinement et 100% d’agents raisonnables n’est pas montrée ici car la maladie ne se diffuse simplement pas. En effet, “l’agent zéro” se confine immédiatement et ses proches aussi se confinent dès qu’ils sont infectés ainsi l’épidémie se termine. Ceci n’est vrai que si l’on suppose que les agents peuvent identifier la maladie dès qu’ils deviennent contagieux (voir plus bas).&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Imaginons maintenant que tous les agents ne sont pas raisonnables : regardons ainsi ce qui peut arriver si 80% des agents seulement sont raisonnables. On découvre une situation subtile : si l’agent zéro (le premier à porter la maladie) est raisonnable, alors il n’y a pas de diffusion. Par contre si l’agent zéro n’est pas raisonnable, l’épidémie démarre, mais sa diffusion est moins importante que si aucun confinement n’est mis en place. On note que pendant toute la durée de l’épidémie un grand nombre d’agents continuent à travailler, et que l’on réussit à créer une immunité de groupe où le nombre d’immunisés dépasse le nombre d’agents susceptibles d’être infectés, assez rapidement – l’épidémie est suffisamment étalée.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Illustration -&lt;/em&gt;&lt;/strong&gt; &lt;em&gt;Confinement ciblé avec 80% d’agents « raisonnables ». Les agents «non-raisonnables» sont représentés par des triangles.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/posts/Q13-Gif-conf-80-0-0.gif&quot; class=&quot;half-size&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/posts/Q13-conf-80-0-0-fr.jpg&quot; class=&quot;full-size&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Illustration -&lt;/em&gt;&lt;/strong&gt; &lt;em&gt;Quand on passe à 85% d’agents raisonnables, on voit qu’une petite différence transforme beaucoup la dynamique et réduit considérablement le nombre d’agents touchés par le virus durant l’histoire de l’épidémie.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/posts/Q13-Gif-conf-85-0-0.gif&quot; class=&quot;half-size&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/posts/Q13-conf-85-0-0-fr.jpg&quot; class=&quot;full-size&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Les choses ne sont toutefois pas si simples. Un des aspects compliqués à gérer de la COVID-19 est qu’elle pose un problème d’observation, même pour des agents raisonnables : ils ne savent ainsi pas toujours qu’ils sont malades, car l’incubation peut durer plusieurs jours et il y a par ailleurs un grand nombre de cas peu symptomatiques et difficiles à interpréter. Quand ils ignorent qu’ils sont dangereux pour les autres, les agents “raisonnables” appliquent les gestes barrière mais restent dans la vie active. Pour le modèle, on va supposer que les agents ne savent pas tout de suite qu’ils sont malades. On peut voir l’effet sur les courbes.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Illustration -&lt;/em&gt;&lt;/strong&gt; &lt;em&gt;Courbe de diffusion de l’épidémie si la maladie est trop discrète pour être perceptible par l’agent durant 1, 4 et 7 jours (de gauche à droite).&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Avec 100% des agents « raisonnables », le confinement ciblé stoppe (dans le modèle) la propagation de la maladie même si les agents restent asymptomatiques pendant plusieurs jours. À partir de 7 jours de délai dans l’apparition des premiers symptômes, la maladie arrivera à se répandre même avec le confinement :&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/posts/Q13-Gif-Conf-100-147-0-fr.jpg&quot; class=&quot;full-size&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Avec 85% des agents « raisonnables », on voit que l’épidémie pourra se propager dans la population même si le délai d’apparition des premiers symptômes n’est que de 1 jour :&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/posts/Q13-Gif-Conf-85-147-0-fr.jpg&quot; class=&quot;full-size&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Une dernière question qui peut se poser concerne la possibilité d’une réaction décalée des autorités, qui instaureraient par exemple le confinement ciblé en retard par rapport au démarrage l’épidémie. Une situation possible, par exemple, en cas d’anticipation insuffisante de l’épidémie. On peut observer sur les courbes combien ce retard peut être important à la fois pour l’activité économique, la vitesse de diffusion et le nombre d’agents infectés au total.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Illustration -&lt;/em&gt;&lt;/strong&gt; &lt;em&gt;85% d’agents “raisonnables” sans retard de symptômes avec un confinement immédiat, ou après 7, 10 et 14 jours.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/posts/Q13-Gif-conf-85-0-071014-fr.gif&quot; class=&quot;full-size&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;NB: À l’image d’une journée que nous vivons, un jour dans le modèle correspond à un ensemble d’interactions qu’un agent peut avoir à l’extérieur et à l’intérieur de son foyer. Cela ne va pas plus loin et une semaine dans le modèle ne peut pas être directement comparée à une semaine dans le monde que nous connaissons. Il s’agit simplement ici d’explorer l’impact de la temporalité de déclenchement du &lt;strong&gt;confinement ciblé&lt;/strong&gt; sur la dynamique de l’épidémie et de l’économie.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Enfin, il faut rappeler une hypothèse essentielle de ce modèle, dont on peut constater l’effet au niveau macroscopique. Dans le comportement des agents, il est indiqué que ceux-ci sont déconfinés dès qu’ils ne sont plus malades. Pour la COVID-19, il est, semble-t-il, beaucoup plus simple d’identifier la fin de la maladie que le début - on peut faire l’hypothèse que les agents sont donc capables d’identifier leur guérison. Ceci a un impact très net sur la diffusion. On peut comprendre cela par une baisse du nombre d’interactions potentiellement contaminantes : si les agents immunisés ressortent, les agents pas encore infectés ont plus de chance de rencontrer ces agents qui ne sont pas dangereux pour eux que s’ils restaient confinés après leur maladie. Chaque interaction est donc plus probablement non contaminante.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Illustration -&lt;/em&gt;&lt;/strong&gt; &lt;em&gt;100% d’agents “raisonnables”, 7 jours de retard de symptômes. En noir, les agents guéris sortent de confinement, en turquoise les agents guéris restent confinés.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/posts/Q13-conf-85-0-0-sortie-recovered-fr.jpg&quot; class=&quot;half-size&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;En conclusion, on peut noter qu’il est théoriquement très simple de contenir largement une épidémie avec un confinement ciblé, même dans les cas où la maladie n’est pas simple à détecter immédiatement. Néanmoins, le nombre d’agents totalement asymptomatiques avec la  COVID 19, et sa durée d’incubation qui n’est pas totalement claire encore à ce jour mais semble aller jusqu’à vingt jours, seraient à prendre en compte plus largement si l’on veut réfléchir mieux à l’épidémie en cours. On pourrait penser à un dépistage bien plus systématiques pour révéler les infections, qui par défaut nécessiterait sans doute de proposer le confinement de la famille et des collègues des agents visiblement malades. Ce modèle simple permet néanmoins d’étudier cette option politique, qui présente l’avantage de ne pas engendrer de rebond à la fin du confinement, comme ce qui est craint dans le cadre d’un confinement total.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Jouer avec le modèle :&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Si la fenêtre du simulateur est tronquée à l’affichage, il vous suffit d’effectuer un zoom arrière&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;#&quot; class=&quot;btn btn-primary&quot; onclick=&quot;loadIframeSimulator(13, this); return false;&quot;&gt;Simuler l’impact du confinement ciblé&lt;/a&gt;&lt;/p&gt;
+&lt;div class=&quot;iframeContainer&quot;&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;em&gt;Rappel : les modèles développés sur ce site sont des modèles pédagogiques, bien plus simples que les modèles construits et mis en oeuvre par d’autres équipes scientifiques travaillant sur la COVID-19. Ils ne se substituent pas à ces modèles de référence et ne peuvent pas être utilisés à leur place pour mener des expertises, diagnostics ou pronostics. Notre objectif est de contribuer à la création, au sein de la population, d’une meilleure connaissance des moteurs de cette épidémie qui nous concerne toutes et tous.&lt;/em&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Ne pas confiner totalement sa population a été un choix fait par plusieurs pays, dont la Suède, par exemple, qui laisse encore aujourd’hui les individus décider eux-mêmes s’ils restent chez eux ou continuent à vaquer à leurs occupations. La logique des dirigeants a été de préserver l’activité économique tout en permettant à tout un chacun de participer activement à la lutte contre la diffusion de la maladie, à son échelle. On peut dire qu’il s’agit d’un choix de décentralisation des décisions, et la simulation agents, technique proposée sur ce site, est souvent utilisée pour traiter de ces questions.</summary></entry><entry><title type="html">Question 12 : Comment se fait-il que personne n’ait vu venir cette épidémie ?</title><link href="https://covprehension.org/2020/04/06/q12.html" rel="alternate" type="text/html" title="Question 12 : Comment se fait-il que personne n'ait vu venir cette épidémie ?" /><published>2020-04-06T00:00:00+00:00</published><updated>2020-04-06T00:00:00+00:00</updated><id>https://covprehension.org/2020/04/06/q12</id><content type="html" xml:base="https://covprehension.org/2020/04/06/q12.html">&lt;p&gt;Si la peste, le choléra ou le typhus semblent être de l’histoire révolue pour une partie des sociétés dans le monde – les grands noms de ceux qui ont révolutionné le champ des maladies infectieuses au XIXè siècle ayant aujourd’hui leurs institutions (Pasteur en France, Koch en Allemagne…) –, le grand livre des maladies infectieuses ne s’est cependant pas refermé pour autant.&lt;/p&gt;
+
+&lt;p&gt;Ainsi, la &lt;strong&gt;grippe asiatique&lt;/strong&gt; de 1957-1958 a fait plus d’un million de victimes dans le monde, tout comme la &lt;strong&gt;grippe de Hong Kong&lt;/strong&gt; entre 1968 et 1970. Le début des années 1980 ne pourra jamais être dissocié quant à lui de l’émergence du &lt;strong&gt;VIH / SIDA&lt;/strong&gt; qui aurait fait entre 25 et 35 millions de victimes jusqu’à aujourd’hui. Le &lt;strong&gt;choléra&lt;/strong&gt; continue également de sévir dans le monde par vagues plus ou moins intenses depuis les années 1990 et touche entre 1,3 et 4 millions de personnes par an selon l’Organisation Mondiale de la Santé (OMS). Enfin, environ 50 000 cas de &lt;strong&gt;peste&lt;/strong&gt; ont été déclarés par exemple depuis les années 1990, et l’une des caractéristiques de cette maladie est de circuler pendant de nombreuses années à très bas bruit et réapparaître sous la forme de flambées épidémiques (région de Surat en Inde en 1994, foyers pesteux saisonniers à Madagascar…).&lt;/p&gt;
+
+&lt;p&gt;Après la seconde Guerre Mondiale, l’entrée dans l’âge d’or de la victoire sur les maladies infectieuses apparaît donc comme une &lt;strong&gt;illusion&lt;/strong&gt; rapide, gonflée par les espoirs des découvertes scientifiques, les avancées technologiques et les bénéfices des pratiques hygiénistes de la fin du XIXè siècle. La donne a cependant changé aux cours des siècles, les capacités de résistance des sociétés et leurs failles ne sont pas exactement de même nature. 
+D’un côté, les connaissances et les outils de lutte sont bien plus élaborés aujourd’hui qu’en 1900 et ont permis des victoires sans précédent (la &lt;strong&gt;variole&lt;/strong&gt; est par exemple éradiquée en 1980). De l’autre, une croissance démographique significative dans un monde plus mobile, interconnecté, une accélération de l’urbanisation, l’émergence de résistances aux antimicrobiens, la persistance de la pauvreté, la destruction de la biodiversité … sont autant de facteurs de risques d’apparition ou de résurgence de maladies infectieuses de portée mondiale.&lt;/p&gt;
+
+&lt;p&gt;Le &lt;strong&gt;risque&lt;/strong&gt; est un concept complexe, difficile à appréhender. Il comprend deux dimensions, elles-mêmes délicates à évaluer : la &lt;strong&gt;probabilité d’occurrence&lt;/strong&gt; d’un événement redouté et la &lt;strong&gt;gravité&lt;/strong&gt; de ses conséquences. Dans le cas de la &lt;strong&gt;COVID-19&lt;/strong&gt;, la pandémie semble avoir été une surprise, tant par son apparition inattendue et la vitesse de sa diffusion, que par les conditions de son déploiement dans les parties les plus centrales de l’espace économique globalisé contemporain et ses conséquences dramatiques.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Quels sont les éléments qui pourraient avoir favorisé cet effet de surprise ?&lt;/strong&gt; Est-ce la probabilité d’occurrence d’une pandémie mondiale qui a été sous-estimée ? Est-ce la gravité des conséquences sanitaires, sociales, économiques, environnementales d’un tel évènement qui a été sous-estimée ? Ou bien les deux ? Alors que le flux d’information n’a jamais été aussi intense et rapide, les efforts se multiplient pour comprendre pourquoi les réponses politiques nationales et internationales n’ont pas semblé prendre la mesure du risque lié à l’apparition de cette pandémie.  A la lumière des caractéristiques des épidémies récentes et de celles de la COVID-19, nous proposons ici quelques éléments de réponses à ces questions.&lt;/p&gt;
+
+&lt;h2 id=&quot;comprendre-les-risques-épidémiques-des-vingt-dernières-années&quot;&gt;Comprendre les risques épidémiques des vingt dernières années&lt;/h2&gt;
+
+&lt;p&gt;À la suite de la pandémie du Syndrome Respiratoire Aigu Sévère (&lt;strong&gt;SRAS&lt;/strong&gt;) de 2003, six épidémies ont fait l’objet d’une &lt;em&gt;urgence de santé publique de portée internationale&lt;/em&gt;  (&lt;strong&gt;USPPI&lt;/strong&gt;) par l’Organisation Mondiale de la Santé (&lt;strong&gt;OMS&lt;/strong&gt;) : 1) la &lt;strong&gt;Grippe AH1N1&lt;/strong&gt; de 2009 2) la résurgence de la &lt;strong&gt;poliomyélite&lt;/strong&gt; en 2019 3) la &lt;strong&gt;fièvre hémorragique à Ebola&lt;/strong&gt; de 2014 et 4) de 2018 5) l’épidémie de &lt;strong&gt;fièvre à virus Zika&lt;/strong&gt; de 2016 et 6) la &lt;strong&gt;COVID-19&lt;/strong&gt; de 2020. 
+Depuis 2005, le terme d’USPPI qualifie un &lt;em&gt;événement extraordinaire par le risque qu’il fait courir pour la santé publique au niveau international et nécessite donc une action coordonnée des Etats&lt;/em&gt;. Ces dernières urgences de santé publique de portée internationale ont été marquées par deux caractéristiques : la &lt;strong&gt;diversité et l’étendue des espaces touchés&lt;/strong&gt; d’une part, leur &lt;strong&gt;mortalité attribuable&lt;/strong&gt; d’autre part.&lt;/p&gt;
+
+&lt;p&gt;A titre d’exemple, les nouveaux cas de &lt;strong&gt;poliomyélite&lt;/strong&gt; sont jusqu’alors localisés dans quelques régions du monde souvent considérées comme étant des marges pauvres et géopolitiquement conflictuelles, alors que l’épidémie à &lt;strong&gt;virus Zika&lt;/strong&gt; est apparue en Amérique du Sud et a montré une capacité d’expansion rapide à toute la zone intertropicale. De même, la chaîne de transmission de la pandémie du &lt;strong&gt;SRAS&lt;/strong&gt; a pu être contrôlée alors même que le virus avait démontré ses capacités à toucher très rapidement de grands espaces urbains (Hanoï au Vietnam, Hong Kong en République Populaire de Chine, la cité-Etat de Singapour ou Toronto au Canada). Ainsi, depuis une vingtaine d’années, les agents pathogènes nouveaux ou ré-émergents ont montré leurs &lt;strong&gt;capacités d’expansion rapide dans le monde entier&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Par ailleurs, l’&lt;strong&gt;impact sur la mortalité générale&lt;/strong&gt; de ces urgences de santé a pu paraître limitée dans le temps pour les pays touchés (moins de dix semaines pour l’épidémie de grippe H1N1, par exemple) et concentrée sur certaines classes d’âges (facteurs de gravité plus élevés pour des populations âgées de plus de 50 ans (H1N1 ou SRAS) en association ou non avec des facteurs de risque (cardiaques, nutritionnels…). Présentant des profils de porteurs souvent similaires (symptomatiques et asymptomatiques), les conséquences sur la mortalité globale de ces urgences sont restées jusqu’alors faibles mais les &lt;strong&gt;effets de la prise en charge des malades par les systèmes de santé ont été considérables&lt;/strong&gt; localement ou régionalement (SRAS, Ebola, Zika).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/posts/Q12_1.jpg&quot; class=&quot;full-size&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;la-covid-19---un-passage-de-lépidémie-à-la-pandémie-plutôt-silencieux&quot;&gt;La COVID 19 :  un passage de l’épidémie à la pandémie plutôt silencieux&lt;/h2&gt;
+
+&lt;p&gt;L’étendue géographique et la mortalité attribuable à la COVID-19 ne laissent plus de doute quant au sérieux de cette crise d’ampleur mondiale. Mais à quel moment l’épisode infectieux de l’agent pathogène qui, pour certains acteurs politiques ou scientifiques était au départ comparé à la &lt;strong&gt;grippe saisonnière&lt;/strong&gt;, a-t-il basculé pour devenir une pandémie mondiale menaçante, imposant à la moitié de l’humanité un strict confinement?&lt;/p&gt;
+
+&lt;p&gt;Alors qu’une &lt;a href=&quot;https://arxiv.org/ftp/arxiv/papers/2003/2003.09320.pdf&quot;&gt;étude&lt;/a&gt; tend à montrer que la circulation du virus dans la province italienne de la &lt;strong&gt;Lombardie&lt;/strong&gt; a débuté au moins &lt;strong&gt;dès le début du mois janvier 2020&lt;/strong&gt; (soit un mois avant les premiers cas identifiés en Italie fin février 2020), et que les premiers cas d’une &lt;strong&gt;pneumopathie virale encore inconnue&lt;/strong&gt; semblent remonter à &lt;strong&gt;novembre 2019 en Chine&lt;/strong&gt;, les alertes d’un risque épidémique sont bien plus tardives en Chine, en Asie puis dans le monde entier. 
+Le 23 janvier 2020, le ton monte d’un cran dans les &lt;a href=&quot;https://www.who.int/news-room/detail/23-01-2020-statement-on-the-meeting-of-the-international-health-regulations-(2005)-emergency-committee-regarding-the-outbreak-of-novel-coronavirus-(2019-ncov)&quot;&gt;déclarations&lt;/a&gt; du comité d’urgence de l’OMS : &lt;em&gt;il existe une transmission interhumaine du virus (…). Des cas infectés en Chine ont été exportés aux Etats-Unis, en Thaïlande, au Japon et en République de Corée”&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Partant de &lt;strong&gt;Wuhan&lt;/strong&gt;, la transmission du virus s’est faite “à bas bruit”, infectant un grand nombre de personnes, dont beaucoup sont restées &lt;strong&gt;asymptomatiques&lt;/strong&gt;. Les cas sporadiques dits &lt;strong&gt;importés&lt;/strong&gt; - car en lien direct avec le foyer d’origine de l’épidémie - ont laissé place à de plus en plus de cas de &lt;strong&gt;contaminations locales&lt;/strong&gt; favorisées par ces formes asymptomatiques dont la propagation silencieuse serait également renforcée par une période d’incubation plutôt longue du virus (jusqu’á deux semaines). 
+En outre, la &lt;strong&gt;mortalité&lt;/strong&gt; estimée aux alentours de 2% au début de l’épidémie en Chine, n’a pas été jugée suffisamment “élevée” pour tirer la sonnette d’alarme (le taux de létalité du SRAS ou du MERS-COV ont été respectivement estimés à 9,8% et 34%). De nombreuses comparaisons, parfois malheureuses, avec la &lt;strong&gt;grippe saisonnière&lt;/strong&gt;, ont par ailleurs sans doute contribué à une &lt;strong&gt;confusion&lt;/strong&gt; et une &lt;strong&gt;sous-estimation du risque&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Les &lt;strong&gt;chemins d’expression de la transmission&lt;/strong&gt; suivent les &lt;a href=&quot;https://www.nytimes.com/interactive/2020/03/22/world/coronavirus-spread.html&quot;&gt;canaux d’un monde globalisé&lt;/a&gt;. &lt;strong&gt;Wuhan&lt;/strong&gt; est la ville la plus peuplée de la région du Centre de la Chine avec plus de 11 millions d’habitants et la capitale de la province du Hubei. Centre industriel, commercial et financier, pôle de formation scientifique, elle est reliée aux plus grandes métropoles chinoises (Pékin, Shanghai, Guangzhou) qui se trouvent toutes à moins de 1000 Kilomètres. &lt;strong&gt;Importée par avion&lt;/strong&gt;, l’épidémie se déploie ensuite dans différents pays. A partir des cas importés des &lt;strong&gt;chaînes de transmissions&lt;/strong&gt; locales et communautaires se  créent. Les caractéristiques des premières communautés touchées sont à l’image de leur rôle dans l’économie globalisée. Début février, &lt;strong&gt;Singapour&lt;/strong&gt; qui regroupe le plus grand nombre d’infections en dehors de la Chine, se prépare à des mesures restrictives alors que son centre financier est touché par l’épidémie ; puis l’&lt;strong&gt;Italie du Nord&lt;/strong&gt;, berceau du “Made in Italy” associé aux marques de luxe, devient un nouveau foyer épidémique. La plupart des villes du monde, interconnectées avec le hub de transport de la Chine intérieure mais aussi entre-elles, sont progressivement gagnées par cette épidémie délicate à détecter rapidement en raison du caractère symptomatique et asymptomatique de la maladie.&lt;/p&gt;
+
+&lt;h2 id=&quot;les-possibles-dysfonctionnements-organisationnels-dans-la-transmission-dinformation-sur-la-covid-19&quot;&gt;Les possibles dysfonctionnements organisationnels dans la transmission d’information sur la COVID-19&lt;/h2&gt;
+
+&lt;p&gt;L’identification d’un nouvel agent pathogène par l’Organisation Mondiale de la Santé repose sur la transmission d’informations émises par les États et les bureaux de représentation de l’OMS qui ne sont cependant pas présents dans tous les pays. Des &lt;strong&gt;retards de transmission d’information&lt;/strong&gt; de la part de certains États à l’OMS existent pour différentes raisons : volonté de minorer la gravité et le danger au regard des enjeux que peut avoir une épidémie sur les activités économiques ou sur la stabilité politique ; faiblesse du systèmes de soins, en particulier dans sa capacité à notifier et enregistrer de nouveaux risques et maladies ; délais entre l’identification et la transmission des informations des établissements sanitaires vers les différents niveaux administratifs de l’État, puis vers l’OMS ; pays non représenté.&lt;/p&gt;
+
+&lt;p&gt;La &lt;strong&gt;capacité d’identification et de réponse des systèmes de soins&lt;/strong&gt; constituent un enjeu fondamental en cas d’alerte. Depuis une trentaine d’années et dans la plupart des pays, les systèmes de soins ont connu de &lt;strong&gt;profondes transformations&lt;/strong&gt; caractérisées par deux tendances fortes : une &lt;strong&gt;logique financière&lt;/strong&gt; au centre de leurs évolutions et une &lt;strong&gt;contractualisation d’objectifs et de moyens&lt;/strong&gt; associée à une &lt;strong&gt;multiplication des acteurs en charge de la santé&lt;/strong&gt;. Ces transformations des systèmes de soins ont pu conduire à réorganiser ou limiter certains programmes, en particulier en matière de prévention des risques sanitaires, mais aussi à étendre la chaîne d’acteurs en charge de la santé, pouvant ainsi rendre plus compliquées les réponses lors d’alertes sanitaires. Ces &lt;strong&gt;dysfonctionnements&lt;/strong&gt; face à des situations critiques interrogent aussi les modes d’organisation des États.&lt;/p&gt;
+
+&lt;p&gt;Ainsi, en &lt;strong&gt;France&lt;/strong&gt;, pays encore centralisé dans le secteur sanitaire (comme en &lt;strong&gt;Espagne&lt;/strong&gt; d’ailleurs, où la décentralisation est ancienne et forte mais où l’État central a pris les commandes face à cette situation d’urgence), les critiques sont vives sur le &lt;strong&gt;manque d’anticipation&lt;/strong&gt; des structures nationales concernant la prévention et la protection des populations, des soignants et des aidants. Dans le &lt;strong&gt;modèle fédéral des États-Unis&lt;/strong&gt;, les mesures de confinement prises à l’initiative de certains gouverneurs d’États sont critiquées par le pouvoir central. En &lt;strong&gt;Allemagne&lt;/strong&gt; où les Länder (“régions”) prennent en charge les politiques de santé, le fédéralisme est valorisé par certains dans sa capacité à offrir des réponses adaptées aux problèmes, mais il est aussi critiqué par d’autres en raison des délais qu’il impose en termes de prise de décision, de transfert d’information entre niveaux administratifs ou des formes de concurrence qu’il peut favoriser en temps de crise.&lt;/p&gt;
+
+&lt;h2 id=&quot;la-covid-19---une-épidémie-si-lointaine&quot;&gt;La COVID-19 :  une épidémie si lointaine…&lt;/h2&gt;
+
+&lt;p&gt;En tout état de cause, pour un grand nombre de gouvernants dans le monde, &lt;strong&gt;le risque épidémique a semblé d’abord éloigné&lt;/strong&gt;. Les premières sources signalant la nouveauté et la dangerosité de la COVID-19 ont initialement été sporadiques, difficiles à tracer et à évaluer parce qu’elles étaient transmises via les &lt;strong&gt;réseaux sociaux chinois&lt;/strong&gt; au sein desquels la circulation de l’information est très contrôlée par le pouvoir politique central. &lt;strong&gt;Après avoir été échangée au sein de communautés scientifiques (revues, blogs…), l’information a peu à peu été reprise par les acteurs politiques nationaux&lt;/strong&gt; en même temps que parvenaient – à des rythmes différents et par d’autres voies plus officielles – d’autres sources qui pouvaient paraître en décalage ou en retard par rapport à la situation sanitaire.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Au final, il aura fallu attendre près de 2 mois et demi pour que soit déclarée une situation de pandémie par l’OMS alors qu’un grand nombre de pays dans le monde était déjà touché&lt;/strong&gt;. A titre de comparaison, lors de la pandémie de grippe H1N1 en 2009, un mois s’était écoulé entre l’identification des premiers cas au Mexique le 5 mai 2009 et la déclaration de pandémie le 2 juin 2009.&lt;/p&gt;
+
+&lt;p&gt;Les premières connaissances produites par les gouvernants nationaux ont été confuses parce que les différents messages au niveau international ne permettaient pas de trouver de véritables réponse d’action au niveau des Etats,  mais aussi parce que d’autres événements concurrentiels souvent d’ordre politique (réformes des retraites et élections municipales en France, émeutes intercommunautaires en Inde, par exemple) – donc plus proches – venaient parasiter ou interférer avec ces informations.&lt;/p&gt;
+
+&lt;p&gt;Cette &lt;strong&gt;mise à distance du risque&lt;/strong&gt; a même perduré lorsque les toutes premières populations touchées par le virus furent identifiées dans chaque pays. Les informations venues de Chine, d’Italie du Nord ou des premières zones de foyers épidémiques internes à chaque pays ont pu en effet entretenir l’image d’une maladie spatialement délimitée, concernant des groupes spécifiques. Il a fallu la mise en place de &lt;strong&gt;mesures nationales de confinement&lt;/strong&gt; pour que l’épidémie soit considérée comme proche et porteuse de dangers par l’ensemble des populations. 
+A titre illustratif, ce changement est visible lorsqu’on analyse l’intérêt des recherches pour le terme “coronavirus” sur le moteur de recherche &lt;strong&gt;Google&lt;/strong&gt; (outil Google trend) entre le 31/12/2019 (date du signalement de la pneumopathie à l’OMS) et mi-avril 2020 pour quatre pays européens ayant fait le choix d’un confinement strict ou très strict. 
+Si chaque pays dispose d’une courbe épidémique qui lui est propre, il en est de même concernant la &lt;strong&gt;courbe des intérêts relatifs au terme sur le moteur de recherche&lt;/strong&gt; le plus utilisé par les internautes. 
+On voit ainsi que les recherches utilisant le terme “coronavirus” n’apparaissent massivement qu’à partir de fin février 2020, soit &lt;strong&gt;deux mois après la déclaration officielle de la Chine&lt;/strong&gt;. Par ailleurs, les annonces et décisions de l’OMS concernant le niveau de risque associé à la COVID-19 semblent, quant à elles, avoir eu peu d’effets sur les recherches des internautes. &lt;strong&gt;L’épidémie reste ainsi lointaine malgré les alertes et les annonces faites par l’OMS&lt;/strong&gt;. Enfin, &lt;strong&gt;les pics de recherche coïncident avec la chronologie de début du confinement&lt;/strong&gt; annoncé par les gouvernements de ces quatre pays : d’abord l’Italie (en plusieurs phases), puis l’Espagne, la France et le Royaume-Uni.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/posts/Q12_2.png&quot; class=&quot;full-size&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Evolution (31 décembre 2019 - 17 avril 2020) de la requête “coronavirus” sur le moteur de recherche Google par les internautes de quatre pays européens.&lt;/strong&gt;
+&lt;em&gt;L’outil « Google trend » calcule le nombre de recherches sur les mots clés tapés par les internautes par rapport au nombre total de recherches effectuées sur Google sur une période donnée. Il permet d’afficher l’intérêt par les internautes pour un sujet particulier. Les valeurs représentent l’intérêt de la recherche par pays et par date : 100 (pic de popularité pour le terme) ; 50 ( terme deux fois moins populaire) et 0 (le nombre de recherches n’est pas suffisant pour représenter une tendance au regard des autres données).&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;Alors que la « pandémie du siècle » annoncée en 2009 lors de l’émergence d’une souche de virus grippal A-H1N1 avait donné lieu à une &lt;strong&gt;mobilisation générale précoce des services sanitaires nationaux et internationaux&lt;/strong&gt;, il semblerait que la situation de la COVID-19, qu’on sait aujourd’hui être moins bénigne, ait pâti d’une &lt;strong&gt;combinaison de facteurs épidémiologiques et de circonstances socio-politiques qui ont contribué à son effet de surprise&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Le &lt;strong&gt;risque de survenue d’une maladie infectieuse avec un potentiel de transmission de portée mondiale était pressenti&lt;/strong&gt;, mais les structures internationales et les États n’y étaient pas pour autant préparés de manière homogène. 
+Les rapports sur les risques à l’échelle planétaire n’avaient pas attendu 2020 pour être unanimes sur la complexité et la multiplicité des liens entre les différents risques qui menacent l’équilibre mondial, dont le risque de pandémie mondiale est un maillon de la chaîne parmi les moins négligeables. 
+Si la probabilité d’occurrence est difficilement estimable en soi, la &lt;a href=&quot;https://www.weforum.org/reports/the-global-risks-report-2018&quot;&gt;&lt;strong&gt;sévérité des conséquences&lt;/strong&gt;&lt;/a&gt; d’une telle crise était déjà affirmée de manière indiscutable. 
+L’année 2018, triste anniversaire des 100 ans de la grippe « espagnole », fut également l’occasion pour les scientifiques de rappeler que les risques épidémiologiques qui menacent nos sociétés sont nombreux et surtout ne sont jamais loin - que ce soit dans le temps, ou dans l’espace. 
+Lors d’une conférence sur le thème &lt;a href=&quot;https://www.youtube.com/watch?v=en06PYwvpbI&quot;&gt;“Sommes-nous prêts à affronter la prochaine pandémie ?”&lt;/a&gt; Peter Piot, professeur de santé publique, alors directeur de la &lt;a href=&quot;https://www.lshtm.ac.uk/&quot;&gt;London School of Hygiene &amp;amp; Tropical Medicine&lt;/a&gt; est clair : &lt;strong&gt;la préparation de nos sociétés aux nouvelles menaces liées aux maladies infectieuses est insuffisante&lt;/strong&gt;. Il propose plusieurs pistes d’amélioration :&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;les capacités locales de détection et de réaction rapide au sein des pays doivent être renforcées ;&lt;/li&gt;
+  &lt;li&gt;la gouvernance mondiale de la santé représentée par l’OMS doit être réformée ;&lt;/li&gt;
+  &lt;li&gt;les partenariats et communication sur le terrain entre les communautés, les ONG et le secteur privé doivent être plus systématiques ;&lt;/li&gt;
+  &lt;li&gt;le partage en temps utile des données et des échantillons entre les organismes scientifiques et de santé publique doit être automatique ;&lt;/li&gt;
+  &lt;li&gt;le système de Recherche &amp;amp; Développement doit fonctionner en toute indépendance des incitations du marché.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Ces cinq points faisaient déjà partis des &lt;a href=&quot;https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(15)00946-0/fulltext&quot;&gt;réformes essentielles&lt;/a&gt; rapportées &lt;strong&gt;après l’épidémie d’Ebola de 2015&lt;/strong&gt;. Si Ebola n’a pas réussi à changer suffisamment vite les règles du jeu pour la pandémie actuelle, la COVID-19 marquera-t-elle un changement dans les modes de gouvernance sanitaires tant nationaux qu’internationaux ?&lt;/p&gt;</content><author><name></name></author><summary type="html">Si la peste, le choléra ou le typhus semblent être de l’histoire révolue pour une partie des sociétés dans le monde – les grands noms de ceux qui ont révolutionné le champ des maladies infectieuses au XIXè siècle ayant aujourd’hui leurs institutions (Pasteur en France, Koch en Allemagne…) –, le grand livre des maladies infectieuses ne s’est cependant pas refermé pour autant.</summary></entry><entry><title type="html">Question 10 : Comment les outils de modélisation permettent-ils de prévoir les infléchissements de la courbe épidémique ?</title><link href="https://covprehension.org/2020/04/02/q10.html" rel="alternate" type="text/html" title="Question 10 : Comment les outils de modélisation permettent-ils de prévoir les infléchissements de la courbe épidémique ?" /><published>2020-04-02T00:00:00+00:00</published><updated>2020-04-02T00:00:00+00:00</updated><id>https://covprehension.org/2020/04/02/q10</id><content type="html" xml:base="https://covprehension.org/2020/04/02/q10.html">&lt;p&gt;De nombreux phénomènes peuvent participer à l’infléchissement d’une courbe épidémique et il est par conséquent très important de pouvoir en faire de même dans les modèles. Concrètement, comment s’y prend-on ?&lt;/p&gt;
+
+&lt;p&gt;Nous allons répondre à cette question en mobilisant les outils théoriques et pratiques de l’&lt;strong&gt;épidémiologie mathématique&lt;/strong&gt;. En toute simplicité bien sûr.&lt;/p&gt;
+
+&lt;p&gt;Prenons le cas d’école d’un modèle dans lequel les individus d’une population peuvent être soit sains (et donc susceptibles d’être infectés), soit infectés, soit guéris. On retrouve ici les composants de base de la plupart des modèles développés sur ce site. Dans le jargon de la modélisation des épidémies, on parle d’un &lt;strong&gt;modèle SIR&lt;/strong&gt; (S pour Susceptible, I pour Infected et R pour Recovered). Ce type de modèle est très classique en épidémiologie mathématique.&lt;/p&gt;
+
+&lt;p&gt;Dans la plupart des questions précédentes sur ce site, nous nous sommes intéressés à un nombre réduit d’individus en interaction dont nous représentions les comportements individuels. Dans le cas où nous souhaitons modéliser des &lt;strong&gt;populations entières&lt;/strong&gt; (à l’échelle de la France, de l’Europe, du Monde) il ne fait guère sens de vouloir représenter chaque comportement individuel, sauf si des &lt;a href=&quot;https://lejournal.cnrs.fr/articles/covid-19-comment-sont-concus-les-modeles-des-epidemies&quot;&gt;raisons particulières&lt;/a&gt; motivent un tel investissement.&lt;/p&gt;
+
+&lt;p&gt;On raisonnera alors plutôt à partir de groupes de populations considérés comme &lt;strong&gt;homogènes&lt;/strong&gt; par leurs caractéristiques et leurs comportements et on se limitera volontairement à un &lt;strong&gt;nombre réduit de paramètres&lt;/strong&gt; : outre la population initiale dans chacun des états S, I et R, on retiendra essentiellement le taux de contact, le taux de contagion et le taux de guérison.&lt;/p&gt;
+
+&lt;p&gt;Bien entendu le taux de contagion, tout comme le taux de guérison, sont des paramètres propres à la maladie et aux &lt;a href=&quot;https://websenti.u707.jussieu.fr/sentiweb/2063.pdf&quot;&gt;mesures de prévention et de contrôle&lt;/a&gt; mises en place. Ils sont estimés à partir de &lt;a href=&quot;http://alizon.ouvaton.org/COVID.html&quot;&gt;données empiriques ou théoriques&lt;/a&gt; élaborées, depuis le début de l’épidémie, en différents endroits du globe.&lt;/p&gt;
+
+&lt;p&gt;Ce type de modèle, qui fait l’hypothèse (forte) que tout le monde va se comporter, contracter le virus et développer la maladie de la même manière, s’exprime essentiellement sous forme d’équations mathématiques. On peut toutefois, de manière très utile, le représenter également de manière graphique.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/posts/Q10-1.jpg&quot; class=&quot;full-size&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;L’idée de base est en vérité toute simple (même si sa mise en oeuvre pratique l’est nettement moins) : à partir d’une situation de départ (par exemple ici 100 000 personnes saines et 1 personne infectée) on va calculer l’évolution du nombre de personnes saines, infectées et guéries à partir de leur nombre connu l’instant d’avant et de nos deux mécanismes de transmission et de guérison.&lt;/p&gt;
+
+&lt;p&gt;Une fois le modèle construit, sa &lt;strong&gt;résolution numérique&lt;/strong&gt; produit les courbes épidémiques recherchées : on peut alors suivre l’évolution, au cours du temps, du nombre de personnes saines, infectées et guéries.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/posts/Q10-2.jpg&quot; class=&quot;full-size&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;A partir de là et en fixant les mêmes &lt;strong&gt;conditions initiales&lt;/strong&gt; (ici les nombres de personnes saines, infectées et guéries en début de simulation), on peut chercher à jouer sur chacun des paramètres (le taux de contact, le taux de contagion et le taux de guérison), de manière à étudier leurs effets sur la forme des courbes obtenues.&lt;/p&gt;
+
+&lt;p&gt;Un scénario de &lt;strong&gt;confinement&lt;/strong&gt; nous poussera ainsi à définir un taux de contact inférieur à celui qui nous sert de référence, dans l’hypothèse d’un fonctionnement “normal”. De cette manière, la mise en place d’une période de confinement pendant notre épidémie virtuelle perturbera la courbe épidémique.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Si la fenêtre du simulateur est tronquée à l’affichage, il vous suffit d’effectuer un zoom arrière&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;#&quot; class=&quot;btn btn-primary&quot; onclick=&quot;loadIframeSimulator(10, this); return false;&quot;&gt;Simuler l’impact du confinement sur la courbe épidémique&lt;/a&gt;&lt;/p&gt;
+&lt;div class=&quot;iframeContainer&quot;&gt;&lt;/div&gt;
+
+&lt;p&gt;Vous vous demandez comment on a estimé le taux de contact avant et après confinement ? 
+C’est par ici !&lt;/p&gt;
+
+&lt;p&gt;Tout ce que nous avons présenté ici peut sembler simple sur le papier. A un détail près : &lt;strong&gt;comment pouvons-nous estimer ce fameux taux de contact avant et pendant le confinement ?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Voilà une question incongrue n’est-ce pas ? &lt;strong&gt;En moyenne, combien d’interactions avec d’autres personnes avons-nous chaque jour ?&lt;/strong&gt; 
+Nous parlons bien sûr ici d’interactions entre des personnes impliquant une &lt;strong&gt;proximité physique suffisante pour rendre possible la transmission du virus&lt;/strong&gt;. Il s’agit de ce qu’on appelle des &lt;strong&gt;contacts effectifs&lt;/strong&gt;.
+On imagine tout de suite que cette valeur doit varier énormément entre un parisien qui prend le métro en heure de pointe et un habitant de Lozère qui vit retiré du monde. Et pourtant, il nous faut bien trouver un &lt;strong&gt;ordre de grandeur&lt;/strong&gt; capable de caractériser notre population le plus largement possible (rappelez-vous, nous faisons l’hypothèse que les individus de notre population se comportent de manière identique).&lt;/p&gt;
+
+&lt;p&gt;Une &lt;a href=&quot;https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0050074&quot;&gt;étude&lt;/a&gt; réalisée en 2007 dans plusieurs pays européens nous apporte un éclairage intéressant. Cette étude portait sur 7290 participants sélectionnés au hasard et ayant rapporté au moyen de petits carnets de bord un total de 97 904 interactions proches au cours d’une même journée. Son principal résultat : &lt;strong&gt;le nombre moyen de contacts quotidiens impliquant une proximité physique importante y est estimé à 13,4 contacts par personne et par jour&lt;/strong&gt;. Voici un ordre de grandeur intéressant à utiliser n’est-ce pas ?&lt;/p&gt;
+
+&lt;p&gt;Qu’en est-il maintenant en période de confinement ? S’il est bien suivi, les gens passent l’essentiel de leur temps chez eux et respectent la distanciation sociale lorsqu’ils sortent, donc la valeur devrait tendre vers zéro non ? Si vous avez lu la &lt;a href=&quot;https://covprehension.org/2020/03/24/q2.html&quot;&gt;question 2&lt;/a&gt; et la &lt;a href=&quot;https://covprehension.org/2020/03/30/q6.html&quot;&gt;question 6&lt;/a&gt;, vous savez déjà que ce n’est pas si simple..&lt;/p&gt;
+
+&lt;p&gt;Nous n’avons pas trouvé dans la littérature de réponse précise à cette question, aussi fixons-nous ici une valeur par défaut de un seul contact par personne et par jour en moyenne pendant le confinement, soit 10 fois moins qu’en période normale.&lt;/p&gt;
+
+&lt;p&gt;Comment traduisons-nous maintenant ces deux valeurs (~10 et ~1 contacts) dans notre modèle ? Voyons cela en détail.&lt;/p&gt;
+
+&lt;p&gt;Nous savons déjà qu’à chaque instant de la simulation, une certaine quantité de personnes va quitter le stock des sains pour être dénombrée dans celui des infectés. Cette quantité dépend de quatre éléments :&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;le nombre de personnes saines dans la population&lt;/li&gt;
+  &lt;li&gt;le nombre de personnes infectées dans la population&lt;/li&gt;
+  &lt;li&gt;le taux de contact&lt;/li&gt;
+  &lt;li&gt;le taux de contagion&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Le nombre de contacts qu’une personne infectée va avoir à chaque instant avec une personne saine au cours de la simulation repose sur la multiplication de trois des termes : Sains x Infectés x Taux de contact&lt;/p&gt;
+
+&lt;p&gt;Si nous reprenons notre situation initiale (Sains = 100 000, Infectés = 1) alors, pour obtenir la valeur souhaitée de 10 contacts à chaque pas de temps entre une personne infectée et des personnes saines, il nous faut définir un taux de contact qui soit équivalent à 0.0001 dans la mesure où 100 000 x 1 x 0.0001 = 10&lt;/p&gt;
+
+&lt;p&gt;Bien entendu, cette valeur ne prend en compte que les interactions entre les personnes saines et les personnes infectées. Les interactions entre les personnes d’un même groupe (sains, infectés ou guéris) ou avec les personnes guéries ne sont donc pas prises en compte dans ce calcul.&lt;/p&gt;
+
+&lt;p&gt;Par ailleurs, notons que le nombre de personnes saines, tout comme le nombre de personnes infectées ou guéries, évolue au cours du temps. &lt;strong&gt;Le nombre d’interactions va donc tout naturellement évoluer au cours de l’épidémie&lt;/strong&gt;. Cela se conçoit aisément car moins il y a de personnes saines, et moins il peut y avoir d’interactions entre des personnes infectées et des personnes saines (ce qui est d’ailleurs un des principes de l’immunité de groupe, comme vous le verrez dans la question 8 en cours de traitement).&lt;/p&gt;
+
+&lt;p&gt;Si vous avez lu attentivement ce que nous avons expliqué, une autre question doit se poser assez naturellement  … vous l’avez ? …&lt;/p&gt;
+
+&lt;p&gt;Ce calcul est en effet actualisé à “chaque instant de la simulation”. Mais que représente le &lt;strong&gt;temps&lt;/strong&gt; de la simulation dans notre cas ?&lt;/p&gt;
+
+&lt;p&gt;Cela pourra (peut-être ?) faire l’objet d’une prochaine réponse ;-)&lt;/p&gt;
+
+&lt;p&gt;En attendant, si vos souhaitez en savoir plus nous vous conseillons la lecture de ce &lt;a href=&quot;http://alizon.ouvaton.org/Rapport3_Modele.html&quot;&gt;rapport&lt;/a&gt; rédigé par l’une des meilleures équipes de recherche du domaine.&lt;/p&gt;
+
+&lt;p&gt;C’est aussi simple que ça.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Rappel : les modèles développés sur ce site sont des modèles pédagogiques, bien plus simples que les modèles construits et mis en oeuvre par d’autres équipes scientifiques travaillant sur la COVID-19. Ils ne se substituent pas à ces modèles de référence et ne peuvent pas être utilisés à leur place pour mener des expertises, diagnostics ou pronostics. Notre objectif est de contribuer à la création, au sein de la population, d’une meilleure connaissance des moteurs de cette épidémie qui nous concerne toutes et tous.&lt;/em&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">De nombreux phénomènes peuvent participer à l’infléchissement d’une courbe épidémique et il est par conséquent très important de pouvoir en faire de même dans les modèles. Concrètement, comment s’y prend-on ?</summary></entry><entry><title type="html">Question 11 : La COVID-19, une maladie de l’anthropocène ?</title><link href="https://covprehension.org/2020/04/02/q11.html" rel="alternate" type="text/html" title="Question 11 : La COVID-19, une maladie de l'anthropocène ?" /><published>2020-04-02T00:00:00+00:00</published><updated>2020-04-02T00:00:00+00:00</updated><id>https://covprehension.org/2020/04/02/q11</id><content type="html" xml:base="https://covprehension.org/2020/04/02/q11.html">&lt;p&gt;Le concept d’anthropocène a été développé par les sciences de la Terre puis repris par les sciences humaines et sociales dans une perspective critique et plus politique. &lt;em&gt;Il ne fait pas consensus au sein du débat scientifique.&lt;/em&gt; Cependant, l’idée générale est que la Terre est actuellement entrée dans une phase d’évolution irrémédiablement déterminée par les activités humaines qui y laissent leurs empreintes dans l’histoire géologique et climatique. La date de son entrée est cependant débattue par les chercheurs : depuis la révolution industrielle ? Depuis les premiers essais nucléaires ?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Dans la question posée, l’usage de la notion d’anthropocène semble interroger la manière dont les êtres humains aménagent et organisent leurs espaces habités et les conséquences de leurs activités sur Terre&lt;/strong&gt;. Au regard des pandémies plus anciennes et de celle à COVID-19, plusieurs éléments doivent être posés, particulièrement en ce qui concerne les conditions de leurs apparitions et diffusions.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/posts/Q11_1.jpg&quot; class=&quot;full-size&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;La dynamique générale de la mortalité des populations au niveau mondial n’est pas linéaire dans le temps et selon les lieux mais elle est caractérisée par des phases de rattrapage et de rupture à des rythmes variables&lt;/strong&gt;. Si l’on note une tendance forte à l’augmentation de l’espérance de vie à la naissance depuis la fin du XIXè siècle, mais surtout après la Seconde Guerre Mondiale pour la majorité de la population mondiale, on remarque également des ruptures avec l’apparition de nouvelles maladies ou de formes résistantes de maladies déjà connues. 
+La deuxième moitié du XXè siècle a été marquée par une diminution des maladies infectieuses, parasitaires et de carence  - à des rythmes différents selon les régions du monde - et par l’apparition et l’identification 1) de nouveaux agents pathogènes (VIH / SIDA, virus à fièvre hémorragique virale comme Ebola, par exemple) ;  2) d’anciens agents que l’on croyait avoir fortement limités, voire éradiqués, et qui ont muté (choléra 0139, tuberculose multi-résistante…) et dont l’aire d’expansion s’est fortement modifiée (maladies à virus transmis par des insectes : dengue, fièvre jaune, par exemple).&lt;/p&gt;
+
+&lt;p&gt;Les causes de &lt;strong&gt;l’émergence ou de la ré-émergence d’agents pathogènes&lt;/strong&gt; sont multiples (résistances aux anti-infectieux, abandon de programmes sanitaires, diminution de la vaccination…). Celles liés aux &lt;strong&gt;transformations et aux aménagements des environnements par l’action humaine sont déterminantes&lt;/strong&gt; (urbanisation, nouveaux modes d’occupation des sols, actions sur les écosystèmes terrestres et le climat…). 
+Ces changements impliquent d’une part, que les &lt;strong&gt;agents pathogènes, leurs hôtes et vecteurs s’adaptent&lt;/strong&gt; d’une manière ou d’une autre à ces nouveaux environnements transformés ou bâtis et d’autre part, que les probabilités d’&lt;strong&gt;interactions entre les espèces animales sauvages et domestiques, mais aussi avec les humains&lt;/strong&gt;, puissent être renforcées.&lt;br /&gt;
+Le rôle de ces transformations dans le passage de la &lt;strong&gt;« barrière de l’espèce »&lt;/strong&gt; par un agent pathogène (de l’animal à l’homme) est central mais il est aussi important de comprendre comment ils varient dans le temps et pourquoi ils circulent et se diffusent géographiquement. Par exemple, l’épidémie à fièvre hémorragique &lt;strong&gt;Ebola&lt;/strong&gt; s’est manifestée de manière brutale et de façon sporadique et irrégulière dans une partie de l’Afrique de l’Ouest à partir de 1976, année de son identification. Près de 30 années après, soit en décembre 2013, elle se diffuse de manière plus vaste et plus régulièrement dans certaines régions d’Afrique, y compris dans les villes.&lt;/p&gt;
+
+&lt;p&gt;D’une façon générale, la diffusion dépend des &lt;strong&gt;possibilités de déplacement&lt;/strong&gt; des vecteurs et réservoirs qu’ils soient animaux ou humains, ainsi que de leurs interactions. Certains vecteurs comme les moustiques profitent des transports aériens ou maritimes pour s’installer hors de leurs régions d’origine. Ils peuvent d’ailleurs bénéficier de conditions environnementales favorables, y compris dans d’autres zones du globe en raison du réchauffement climatique.&lt;/p&gt;
+
+&lt;p&gt;Pour les &lt;strong&gt;maladies dont l’homme est le vecteur&lt;/strong&gt;, comme pour la grippe ou le coronavirus, deux facteurs sont déterminants d’un point de vue géographique. 
+D’une part, il est important de comprendre l’organisation des &lt;strong&gt;axes de circulation&lt;/strong&gt; et les acteurs qui les utilisent parce qu’ils jouent tous les deux un rôle pour mettre en relation les lieux. 
+D’autre part, il est nécessaire d’identifier comment sont réparties les populations (sont-elles dispersées ? concentrées ?) ainsi que leurs &lt;strong&gt;modes d’organisation&lt;/strong&gt; (vivent-elles dans de grandes métropoles mondiales ? dans des territoires enclavés ? par exemple). Ces questions impliquent en effet des différences en termes de &lt;strong&gt;densité&lt;/strong&gt; et de façon de se &lt;strong&gt;déplacer&lt;/strong&gt; (très / peu mobiles ? parcourant de grandes / de petites distances ?, par exemple), ce qui a des conséquences sur les &lt;strong&gt;probabilités d’interaction entre les lieux&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;L’un des exemples les plus cités dans la littérature scientifique porte sur l’apparition et la diffusion de la &lt;strong&gt;Peste « Noire »&lt;/strong&gt; en Europe entre 1348 et 1352. Elle illustre les circulations sur les grands axes continentaux du Moyen-Age entre l’Asie et l’Europe (Routes de la Soie) et maritimes régionales (Mer Noire et Méditerranée), ainsi que les lignes de forces et pôles de commandement des puissances politiques et économiques comme celles de l’Empire mongol et son rôle dans l’aménagement et la mise en relation de l’Europe avec l’Asie orientale. La seconde pandémie de &lt;strong&gt;choléra&lt;/strong&gt; (1829-1837) partant d’Asie du Sud (région du Bengale) met en valeur l’intensification des interconnexions entre les lieux opérées par l’expansion maritime et le développement des réseaux ferroviaires au sein des grands empires coloniaux ainsi que les conflits entre ces puissances rivales (Empire Russe, Ottoman, Britannique…) au XIXè siècle. Ainsi, la pandémie a été introduite via les ports coloniaux, s’est diffusée ensuite dans les arrière-pays et a bénéficié d’accélération et d’expansions avec les conflits.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Qu’en est-il de la pandémie à COVID-19 ?&lt;/strong&gt; S’il est précipité de donner une explication définitive en raison des inconnues sur la maladie, on peut cependant formuler une hypothèse sur les conditions d’introduction du virus. Les potentiels de circulation et de diffusion semblent être plus élevés dans des lieux cumulant haute accessibilité(1) et forte connexité(2). Plusieurs arguments peuvent aller en faveur de cette hypothèse. 
+Le premier est lié aux caractéristiques de la province du &lt;strong&gt;Hubei&lt;/strong&gt; et de sa capitale &lt;strong&gt;Wuhan&lt;/strong&gt; : grand pôle industriel chinois et région pilote pour l’économie  (programme « Go west » du gouvernement chinois), avec un grand nombre d’entreprises étrangères (automobile, hautes et bio technologies, sidérurgie, chimie…) ; en position intérieure et centrale au sein du triangle Pékin, Shanghai, Canton / HongKong qui dessert plus de 400 millions d’habitants ; plate-forme logistique à l’une des extrémités du grand projet terrestre et maritime des « nouvelles routes de la Soie » porté par des partenariats entre la Chine et plusieurs Etats du continent asiatique.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;C’est dans un des lieux de ce pôle économique et industriel de dimension internationale, avec un très fort potentiel d’expansion en termes d’aménagements et donc de transformations environnementales que la COVID-19 a été identifiée pour la première fois.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Le second argument est le rôle des &lt;strong&gt;liaisons aériennes&lt;/strong&gt;. Wuhan est une plateforme aéroportuaire importante et est directement reliée à plusieurs grandes capitales d’Asie orientale, du Moyen-Orient, d’Europe de l’Ouest et d’Amérique du Nord. Leurs régions ont pu constituer les premières portes et leurs aéroports des carrefours pour la circulation du virus. Le troisième argument est que parmi les premiers cas dépistés positifs (le « sommet de l’iceberg »), un grand nombre de personnes résident, ont été en contact avec d’autres, ou travaillent dans les centres et périphéries de très grandes villes, plus particulièrement dans celles accueillant des lieux et relais d’activités de production globalisée (périphéries de Milan en Italie, de Seattle aux Etats-unis, de Munich en Allemagne, de Inchon en Corée du Sud, de Mumbai en Inde, de Sidney en Australie, de Durban en Afrique du Sud….).&lt;/p&gt;
+
+&lt;p&gt;Ces régions possèdent un &lt;strong&gt;très fort potentiel de développement économique lié aux investissements internationaux&lt;/strong&gt;. Parmi les premiers cas identifiés, beaucoup d’entre eux étaient très mobiles au niveau international et avaient pu circuler dans des espaces initialement touchés (Hubei en Chine, Lombardie en Italie, Province de Qom en Iran…). Ces individus étaient en outre insérés dans des réseaux de personnes généralement nombreux mais éloignés les uns des autres. Ainsi, s’ils étaient contaminés, ils ont pu contribué à renforcer une dissémination dans le monde et, en même temps, faire circuler le virus en multipliant les transmissions au niveau local.&lt;/p&gt;
+
+&lt;p&gt;Au total, &lt;strong&gt;l’interconnexion des espaces au niveau mondial&lt;/strong&gt; a pu faciliter une circulation du virus, puis une diffusion accélérée au sein de territoires particulièrement bien inter-reliés au niveau régional. Cette diffusion générale a pu être par ailleurs amplifiée par différents évènements : rassemblements religieux (en France, en Inde,  en Corée du Sud, par exemple), folkloriques (carnaval en Allemagne, par exemple), politiques comme en Espagne ou touristiques comme en Autriche par exemple….. Ils ont contribué à accélérer localement la transmission et à disperser le virus dans des lieux éloignés.&lt;/p&gt;
+
+&lt;p&gt;La pandémie à COVID-19 met en lumière les interactions complexes des agents pathogènes avec la faune, les changements d’usage des terres, les ressources, activités et mobilités humaines mais ces transformations ne sont pas spécifiques aux 150 ou 50 dernières années. Pestes, choléra, grippes… ont accompagné et accompagnent l’histoire humaine des échanges même si les transformations environnementales et les vitesses de diffusion des épidémies sont aujourd’hui accélérées. &lt;strong&gt;Pour certains auteurs d’ailleurs, en raison des modifications accélérées sur le climat et sur les environnements, l’augmentation de la fréquence des épidémies est inévitable&lt;/strong&gt;. 
+Finalement, se demander si la COVID-19 est une maladie de l’anthropocène, c’est peut-être interroger les &lt;strong&gt;réponses politiques&lt;/strong&gt; qui seront faites par les gouvernements à la suite de la gestion de la crise sanitaire. Certains scientifiques s’inquiètent en effet des &lt;strong&gt;conséquences dévastatrices que cette crise aura sur le climat&lt;/strong&gt;. Les mesures liées au développement durable s’effaceront-elles au profit d’une aide économique massive incluant une relance de l’industrie fossile et donc une pression accrue sur les ressources terrestres ? Quelles seront enfin les réponses politiques vis-à-vis des &lt;strong&gt;inégalités sociales et géographiques&lt;/strong&gt; que l’épidémie mettra en lumière ?&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Notes de bas de pages&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;(1) &lt;em&gt;Elle représente l’offre de mobilité (de transports) qui donnent les possibilités pour se déplacer d’un lieu à l’autre.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;(2) &lt;em&gt;Dans un réseau de transport, les lieux sont bien reliés les uns avec les autres.&lt;/em&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Le concept d’anthropocène a été développé par les sciences de la Terre puis repris par les sciences humaines et sociales dans une perspective critique et plus politique. Il ne fait pas consensus au sein du débat scientifique. Cependant, l’idée générale est que la Terre est actuellement entrée dans une phase d’évolution irrémédiablement déterminée par les activités humaines qui y laissent leurs empreintes dans l’histoire géologique et climatique. La date de son entrée est cependant débattue par les chercheurs : depuis la révolution industrielle ? Depuis les premiers essais nucléaires ?</summary></entry><entry><title type="html">Question 7 : ‘Aplatir la courbe épidémique’, quels effets sur le système de soins ?</title><link href="https://covprehension.org/2020/04/01/q7.html" rel="alternate" type="text/html" title="Question 7 : 'Aplatir la courbe épidémique', quels effets sur le système de soins ?" /><published>2020-04-01T00:00:00+00:00</published><updated>2020-04-01T00:00:00+00:00</updated><id>https://covprehension.org/2020/04/01/q7</id><content type="html" xml:base="https://covprehension.org/2020/04/01/q7.html">&lt;p&gt;Promouvoir les gestes barrières, fermer les écoles ou réduire les rassemblements et les déplacements sont des exemples de mesures instaurées pour ralentir la diffusion d’un virus. En ralentissant  la diffusion de l’épidémie, ces mesures permettent aussi de  soulager le système de soins.&lt;/p&gt;
+
+&lt;p&gt;L’idée d’“aplatir la courbe” a été relayée par de nombreux journalistes et politiques pour justifier l’intérêt des gestes barrières, de la distanciation sociale ou des mesures de confinement (cf. &lt;a href=&quot;https://covprehension.org/&quot;&gt;#flattenthecurve&lt;/a&gt; sur Twitter), notamment pour éviter la surcharge dans les services de réanimation des hôpitaux. Mais pourquoi l’aplatissement d’une courbe serait-il une bonne nouvelle pour les hôpitaux, surtout si finalement le même nombre de personnes se trouvent infectées ?&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/posts/Q7_Odile.jpg&quot; class=&quot;full-size&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;En fait, derrière cette volonté d’&lt;strong&gt;aplatir la courbe&lt;/strong&gt; du nombre de cas, il y a l’idée de &lt;strong&gt;se donner plus de temps&lt;/strong&gt;. Il s’agit d’étaler le nombre d’infections dans le temps (en réduisant la vitesse de diffusion du virus dans la population) pour éviter que les cas graves qui nécessitent une hospitalisation n’arrivent &lt;strong&gt;en même temps&lt;/strong&gt; à l’hôpital et que leur nombre ne soit supérieur aux capacités humaines et matérielles (nombre de soignants, de lits, de matériel…) disponibles.&lt;/p&gt;
+
+&lt;p&gt;Commençons donc par observer l’&lt;strong&gt;évolution de la surcharge hospitalière&lt;/strong&gt; selon qu’on ralentit ou non la &lt;strong&gt;vitesse de transmission&lt;/strong&gt; du virus avec par exemple l’application de gestes barrières ou d’un confinement.&lt;/p&gt;
+
+&lt;p&gt;Sur la petite vidéo ci-dessous (scénario A1), on voit ce qui se passe si rien n’est fait pour ralentir la vitesse de diffusion : on observe un pic épidémique important (en bleu clair sur la figure “prévalence”) et un fort besoin en lits de réanimation (la courbe en bleu foncé sur la figure “Saturation des lits en réanimation ?”). Ce besoin en lits n’est qu’en partie comblé : la courbe des lits nécessaires est pendant 19 jours au dessus de la courbe en violet représentant le nombre de lits occupés. Tout ce qui se situe entre ces deux courbes représente le nombre de lits qu’il manque pour répondre aux besoins d’hospitalisation de la population. De fait, après la disparition du virus, ce sont seulement 22,5% des individus qui ont obtenu le lit de réanimation dont ils avaient besoin.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Scénario A1 Pas de ralentissement de la diffusion&lt;/strong&gt;&lt;/p&gt;
+
+&lt;video controls=&quot;&quot; loop=&quot;&quot; autoplay=&quot;&quot; class=&quot;small-size&quot;&gt;
+  &lt;source src=&quot;/img/posts/Q7-simulator-fr.webm&quot; type=&quot;video/webm&quot; /&gt;
+&lt;/video&gt;
+
+&lt;p&gt;Sur la simulation suivante (scénario A2), on choisit de ralentir la transmission dès que le premier cas grave est hospitalisé. Dans ce cas, on observe un aplatissement du pic épidémique mais aussi du besoin en lits de réanimation. L’hôpital se retrouve surchargé pendant moins longtemps (9 jours) et la proportion d’individus qui obtiennent un lit de réanimation dont ils ont besoin augmente (43,8%).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Scénario A2 Ralentissement de la diffusion à la première hospitalisation&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/posts/Q7-A2-fr.png&quot; class=&quot;half-size&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Et enfin la dernière simulation (scénario A3) correspond à la situation très idéaliste où l’épidémie aurait pu être ralentie dès l’apparition du premier cas. Dans ce cas, le pic épidémique disparaît quasiment et aucune surcharge hospitalière n’est observée : les courbes correspondant au nombre de lits nécessaires et au nombre de lits occupés se confondent. Aucune surcharge hospitalière n’est observée. 100% des individus en ayant besoin obtiennent un lit en réanimation.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Scénario A3 Ralentissement de la diffusion au premier cas infecté&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/posts/Q7-A3-fr.png&quot; class=&quot;half-size&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Selon que la transmission est ralentie au début de l’épidémie ou bien plus tardivement, les pics épidémique et de surcharge hospitalière ne seront pas “aplatis” de la même façon. Cela illustre  pourquoi l’&lt;strong&gt;aplatissement&lt;/strong&gt; des courbes épidémiques est &lt;strong&gt;différent selon les pays&lt;/strong&gt; en fonction du  moment où la vitesse de transmission est ralentie. Cela illustre également pourquoi des mesures visant à limiter la transmission et instaurées au même moment dans tout un pays peuvent avoir des &lt;strong&gt;impacts variés dans les régions&lt;/strong&gt;, selon le nombre de personnes déjà infectées localement au moment où le ralentissement est opéré.&lt;/p&gt;
+
+&lt;p&gt;Les simulations que nous présentons ci-dessus utilisent des paramètres reproduisant ce que l’on sait actuellement de la COVID-19, en lien avec les traitements dont on dispose pour l’instant. Cependant, on n’observerait pas forcément les mêmes dynamiques de propagation (et donc d’aplatissement de la courbe) pour d’autres virus. L’évolution de la maladie et sa gravité sont propres à chaque virus, c’est ce que représente le schéma ci-dessous.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/posts/Q7-shema-fr.png&quot; class=&quot;small-size&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Pour évaluer comment la réduction de la vitesse de diffusion permet d’étaler le nombre d’infections dans le temps et de réduire la surcharge hospitalière, il faut également tenir compte des caractéristiques propres à chaque virus (et à la prise en charge médicale).&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Il y a d’abord la &lt;strong&gt;phase d’incubation&lt;/strong&gt; qui correspond à la période où la personne est infectée (et potentiellement contagieuse) mais ne le sait pas encore.&lt;/li&gt;
+  &lt;li&gt;Ensuite, une &lt;strong&gt;phase d’hospitalisation&lt;/strong&gt; peut être nécessaire pour les personnes dont l’état de santé se dégrade.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Ces différentes phases, qui s’enchaînent les unes après les autres, ont des durées plus ou moins longues selon les virus. La date à laquelle l’infection est détectée, la gravité des symptômes et leur durée sont variables et influencent fortement l’intensité et la durée de la surcharge hospitalière en cas d’épidémie. Bien sûr, d’autres facteurs comme le taux de cas graves nécessitant une hospitalisation ou le nombre de lits disponibles ont également un impact sur la pression exercée par l’épidémie sur le système de soins, mais ne nous en occupons pas pour l’instant. Concentrons-nous sur les durées des phases d’incubation et d’hospitalisation pour voir comment ces caractéristiques de la maladie modifient l’effet du ralentissement de la diffusion sur le pic de surcharge hospitalière.&lt;/p&gt;
+
+&lt;p&gt;Imaginons tout d’abord qu’on fasse varier la &lt;strong&gt;durée d’incubation&lt;/strong&gt; (B) de la maladie (dont la durée moyenne a été fixée par défaut à 6 jours dans nos modèles, en lien avec ce qu’on sait de la COVID-19). Regardons alors comment le ralentissement de la transmission joue sur la surcharge hospitalière. On s’aperçoit que lorsque la période d’incubation de la maladie est plus &lt;em&gt;courte&lt;/em&gt; (scénario B1 avec un durée moyenne d’incubation de 2 jours), la réduction de la transmission dès le premier cas hospitalisé permet de réduire efficacement la surcharge du système de soin : la durée de saturation de l’hôpital est de 4 jours, avec 76,5% des individus qui obtiennent le lit de réanimation dont ils ont besoin.&lt;/p&gt;
+
+&lt;p&gt;En revanche, en cas de &lt;em&gt;longue&lt;/em&gt; période d’incubation (scénario B2 avec une durée moyenne d’incubation de 10 jours), freiner la transmission à partir du premier cas hospitalisé ne permet pas d’éviter la surcharge des hôpitaux. La durée de saturation de l’hôpital augmente pour atteindre 13 jours, et uniquement 34,1% des individus obtiennent le lit de réanimation dont ils ont besoin. Si la durée d’incubation est longue, l’infection a déjà eu le temps de se répandre au sein de la population lorsque le ralentissement de la diffusion se produit. Cela montre bien à quel point la phase d’incubation (et l’absence de symptomes qui l’accompagne) est un élément clef à prendre en compte lorsqu’on souhaite contrôler une épidémie et endiguer la surcharge hospitalière.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Scénario B1 avec une durée moyenne d’incubation de 2 jours&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/posts/Q7-B1-fr.png&quot; class=&quot;half-size&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Scénario B2 avec une durée moyenne d’incubation de 10 jours&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/posts/Q7-B2-fr.png&quot; class=&quot;half-size&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Imaginons ensuite qu’on fasse varier la &lt;strong&gt;durée d’hospitalisation&lt;/strong&gt; en réanimation (C) dont la durée moyenne a été fixée par défaut à 12 jours dans nos modèles (en lien avec les traitements actuels pour la COVID-19). On s’aperçoit alors que plus les cas graves nécessitent d’être hospitalisés longtemps, plus la surcharge des hôpitaux dure longtemps. Le nombre de personnes qui nécessitent des soins spécialisés mais qui ne peuvent être prises en charge est alors plus élevé.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Lorsque la durée d’hospitalisation est courte (3 jours), les hôpitaux sont saturés pendant 7 jours et 67,9% des malades obtiennent un lit (cf. scénario C1).&lt;/li&gt;
+  &lt;li&gt;Lorsque la durée d’hospitalisation est longue (21 jours), les hôpitaux sont saturés pendant 13 jours et 26,7% des malades obtiennent un lit (cf. scénario C2).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Ce résultat assez intuitif souligne bien que la surcharge hospitalière redoutée et observée actuellement avec la COVID-19 est étroitement liée à la longueur des soins hospitaliers que cette maladie exige.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Scénario C1 avec une durée moyenne d’hospitalisation de 3 jours&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/posts/Q7-C1-fr.png&quot; class=&quot;half-size&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Scénario C2 avec une durée moyenne d’hospitalisation de 21 jours&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/posts/Q7-C2-fr.png&quot; class=&quot;half-size&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Pour comparer les différents scénarios, nous nous sommes concentrés sur le nombre de jours de saturation et la proportion de malades qui ont obtenu un lit. Ces valeurs dépendent toutefois des paramètres du modèle et doivent être interprétées relativement les unes aux autres. Ce qui nous importe ici, c’est en effet de montrer dans quelle mesure et à quel moment la saturation des hôpitaux se produit.&lt;/p&gt;
+
+&lt;p&gt;Réduire la vitesse de diffusion d’un virus permet de soulager le système de soins. Mais l’efficacité de ce ralentissement varie selon le moment où la vitesse de transmission est réduite, la période pendant laquelle la maladie se diffuse silencieusement sans être détectée par le système de surveillance et la durée des soins que cette maladie nécessite. À vous de vous en convaincre en jouant avec le modèle ci-dessous, avec comme objectif de limiter la surcharge hospitalière !&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;#&quot; class=&quot;btn btn-primary&quot; onclick=&quot;loadIframeSimulator(7, this); return false;&quot;&gt;Modèle pour simuler la surcharge hospitalière&lt;/a&gt;&lt;/p&gt;
+&lt;div class=&quot;iframeContainer&quot;&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;em&gt;Si la fenêtre du simulateur est tronquée à l’affichage, il vous suffit d’effectuer un zoom arrière&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Remarque: Des outils construits par d’autres équipes ont aussi comme objectif de simuler la surcharge hospitalière, comme par exemple &lt;a href=&quot;https://alhill.shinyapps.io/COVID19seir/&quot;&gt;Modeling COVID-19 Spread vs Healthcare Capacity&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Rappel : les modèles développés sur ce site sont des modèles pédagogiques, bien plus simples que les modèles construits et mis en oeuvre par d’autres équipes scientifiques travaillant sur la COVID-19. Ils ne se substituent pas à ces modèles de référence et ne peuvent pas être utilisés à leur place pour mener des expertises, diagnostics ou pronostics. Notre objectif est de contribuer à la création, au sein de la population, d’une meilleure connaissance des moteurs de cette épidémie qui nous concerne toutes et tous.&lt;/em&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Promouvoir les gestes barrières, fermer les écoles ou réduire les rassemblements et les déplacements sont des exemples de mesures instaurées pour ralentir la diffusion d’un virus. En ralentissant la diffusion de l’épidémie, ces mesures permettent aussi de soulager le système de soins.</summary></entry><entry><title type="html">Question 8.1 : L’immunité collective… Les pièges à éviter</title><link href="https://covprehension.org/2020/04/01/q8-1.html" rel="alternate" type="text/html" title="Question 8.1 : L'immunité collective... Les pièges à éviter" /><published>2020-04-01T00:00:00+00:00</published><updated>2020-04-01T00:00:00+00:00</updated><id>https://covprehension.org/2020/04/01/q8-1</id><content type="html" xml:base="https://covprehension.org/2020/04/01/q8-1.html">&lt;h3 id=&quot;pour-aller-plus-loin&quot;&gt;Pour aller plus loin&lt;/h3&gt;
+
+&lt;h4 id=&quot;le-rebond-des-épidémies&quot;&gt;Le rebond des épidémies&lt;/h4&gt;
+
+&lt;p&gt;À partir de 50% de personnes immunisées dans la population, il est nécessaire d’introduire plusieurs nouveaux cas de personnes infectées pour qu’une épidémie puisse de nouveau avoir lieu. La figure ci-dessous montre l’introduction de 5 nouveaux cas à chaque fois que l’épidémie s’éteint (cinq nouvelles introductions de 5 personnes en tout), produisant ainsi de nouvelles vagues épidémiques tant que la proportion de personnes immunisées n’atteint pas le taux d’immunité collective.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/posts/Q8-rebond-fr.png&quot; class=&quot;half-size&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Ce résultat démontre l’intérêt de &lt;strong&gt;rester vigilant&lt;/strong&gt; en période favorable aux épidémies, &lt;strong&gt;même lorsque le taux de personnes immunisées est élevé&lt;/strong&gt;. Le suivi des premiers cas identifiés et le traitement des contacts potentiels (vaccination ou confinement) reste un moyen largement utilisé pour limiter le rebond local d’une épidémie.&lt;/p&gt;
+
+&lt;h4 id=&quot;limportance-de-la-régionalisation-des-études-épidémiologiques&quot;&gt;L’importance de la régionalisation des études épidémiologiques&lt;/h4&gt;
+
+&lt;p&gt;Dans les simulations précédentes, nous avons imaginé une immunité de la population selon un scénario de type vaccination, celle-ci étant distribuée aléatoirement dans notre territoire. Nous pourrions imaginer une &lt;strong&gt;immunité acquise qui soit spatialement structurée&lt;/strong&gt;, le pathogène ayant par exemple circulé dans la zone à l’Est de l’espace de simulation. La question est alors de savoir dans quelles conditions une épidémie pourrait repartir, sachant que le taux de personnes immunisées est relativement faible au niveau de la population générale (28% par exemple), mais spatialement structuré (avec 56% de la population à l’Est qui est immunisée, contre 0% à l’Ouest).&lt;/p&gt;
+
+&lt;p&gt;Pour réaliser cette expérience, vous devez sélectionner dans le simulateur un taux de personnes immunisées inférieur à 50% du total de la population. En effet, lorsqu’ensuite vous allez répartir cette population, celle-ci se concentrera dans la zone Est, donc sur la moitié de la population. Dans l’exemple précédent, cela revient à dire que 56% de la population de la zone Est étant immunisée, cela donne au niveau de l’ensemble de la population un taux de personnes immunisées égal à 28%. Essayez plusieurs configurations initiales avec les mêmes paramètres pour observer les effets sur la diffusion du pathogène de la localisation de nouveaux cas dans la zone de forte ou de faible immunité.&lt;/p&gt;
+
+&lt;p&gt;Dans la vidéo ci-dessous nous avons simulé quatre scénarios différents :&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;20% immunisés premier cas Est&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;30% immunisés premier cas Est&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;video controls=&quot;&quot; loop=&quot;&quot; autoplay=&quot;&quot; class=&quot;small-size&quot;&gt;
+  &lt;source src=&quot;/img/posts/Q8-spatial.webm&quot; type=&quot;video/webm&quot; /&gt;
+&lt;/video&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;20% immunisés premier cas Ouest&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;30% immunisés premier cas Ouest&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Lorsque le premier cas apparaît à l’Ouest de la zone (les deux vidéos du bas), le pathogène se propage rapidement car il ne rencontre aucune personne immunisée. En revanche, lorsqu’il arrive à la “frontière virtuelle” créée par le groupe de personnes immunisées, sa progression ralentit fortement, pouvant même aller jusqu’à s’arrêter selon le taux d’immunité de la zone Est. Dans la vidéo en bas à gauche, la propagation du pathogène est ralentie mais la majorité de la population de l’Est est tout de même infectée à la fin, alors que dans la vidéo en bas à droite, la propagation du pathogène est stoppée très vite à la frontière Est/Ouest : l’immunité collective a protégé la zone Est !&lt;/p&gt;
+
+&lt;p&gt;Lorsque le premier cas apparaît à l’Est de la zone (les deux vidéos du haut), le pathogène circule à “bas bruit” au début de la simulation, la propagation n’est pas très rapide. Cependant, si le taux d’immunité collective de la zone Est n’est pas suffisant (vidéo en haut à gauche), le pathogène connaît une progression fulgurante dès qu’il parvient dans la zone de l’Ouest où il n’y a plus aucune immunité des individus. Si le taux d’immunité collective de la zone Est est suffisant (vidéo en haut à droite), alors le pathogène disparaît avant d’avoir atteint la zone Ouest et l’épidémie “ne prend pas” : l’immunité collective de la zone Est a protégé à la fois l’Est et l’Ouest !&lt;/p&gt;
+
+&lt;p&gt;En conclusion, &lt;strong&gt;ce n’est pas parce qu’une partie de la population semble mieux immunisée qu’une autre qu’elle est nécessairement à l’abri de l’infection&lt;/strong&gt;, d’autres facteurs entrent en jeu et doivent être surveillés pour maîtriser le risque épidémique.&lt;/p&gt;
+
+&lt;h4 id=&quot;pourquoi-un-taux-par-pathogène-&quot;&gt;Pourquoi un taux par pathogène ?&lt;/h4&gt;
+
+&lt;p&gt;L’immunité collective est intimement liée à la “facilité” avec laquelle un pathogène peut circuler parmi les individus d’une population. Cette “facilité” dépend de nombreux facteurs, tels que le mode de transmission d’hôte à hôte (par contact direct ou indirect, par vecteur…), la résistance du pathogène en dehors de son hôte (sur les vêtements, les meubles…), la durée pendant laquelle l’hôte va être contagieux, &lt;em&gt;etc.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Dans le modèle que nous avons développé, nous avons utilisé &lt;strong&gt;trois facteurs principaux qui influencent le taux d’immunité collective&lt;/strong&gt; : le nombre de contacts par individus, le taux de succès de la transmission lors d’un contact et la durée de la contagiosité. Le nombre de contacts par individu dépend de la structure de notre modèle (ici 8 contacts par jour au maximum), mais les deux autres paramètres varient selon le pathogène que l’on veut représenter. C’est pour cela que &lt;strong&gt;le taux d’immunité collective à atteindre pour protéger la population sera différent d’un pathogène à l’autre&lt;/strong&gt; selon les valeurs de ces paramètres. Ces paramètres sont liés au fameux taux de reproduction de base, ou R&lt;sub&gt;0&lt;/sub&gt;, qui a fait l’objet d’une &lt;a href=&quot;https://covprehension.org/2020/03/28/q4.html&quot;&gt;explication sur notre site&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Ci-dessous, quelques exemples des valeurs de ces paramètres pour plusieurs maladies connues :&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Pathogène&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Taux de&lt;br /&gt;transmission&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Durée de&lt;br /&gt;contagiosité&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Taux d’immunité&lt;br /&gt;collective&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Grippe saisonnière&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;0,23&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;6 jours&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;70%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Oreillons&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;1,1&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;10 jours&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;85%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Rubéole&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;0,28&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;21 jours&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;90%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Rougeole&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;1,9&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;8 jours&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;95%&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Ainsi, les principales mesures de contrôle de l’épidémies concernent ces paramètres : on limite les contacts par le confinement, on limite la transmission par les mesures barrières (masque, lavage des mains) et on réduit la période de contagiosité en testant pour mettre en quarantaine les personnes infectées. Pour rendre compte de l’effet de ces trois paramètres sur l’immunité collective, il faut changer de modèle afin d’intégrer la possibilité de contacts inter personnels plus importants que dans le modèle précédent, nous y travaillons et la question correspondante devrait bientôt être en ligne !&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Rappel : les modèles développés sur ce site sont des modèles pédagogiques, bien plus simples que les modèles construits et mis en oeuvre par d’autres équipes scientifiques travaillant sur la COVID-19. Ils ne se substituent pas à ces modèles de référence et ne peuvent pas être utilisés à leur place pour mener des expertises, diagnostics ou pronostics. Notre objectif est de contribuer à la création, au sein de la population, d’une meilleure connaissance des moteurs de cette épidémie qui nous concerne toutes et tous.&lt;/em&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Pour aller plus loin</summary></entry><entry><title type="html">Question 8 : L’immunité collective… Késako ?</title><link href="https://covprehension.org/2020/04/01/q8.html" rel="alternate" type="text/html" title="Question 8 : L'immunité collective... Késako ?" /><published>2020-04-01T00:00:00+00:00</published><updated>2020-04-01T00:00:00+00:00</updated><id>https://covprehension.org/2020/04/01/q8</id><content type="html" xml:base="https://covprehension.org/2020/04/01/q8.html">&lt;p&gt;« Laissez faire, laissez passer, le monde va de lui-même » disait D. de Gournay (économiste qui introduisit la pensée libérale en France au 18&lt;sup&gt;ème&lt;/sup&gt; siècle). Supposons qu’un pathogène (c’est-à-dire une entité qui provoque des maladies, comme un virus ou une bactérie par exemple) contre lequel aucun vaccin ne soit disponible arrive dans un pays. Supposons également qu’aucune mesure de mitigation ne soit mise en place pour limiter sa diffusion : pas de fermeture des frontières, pas de confinement des personnes, pas de dépistage ni de mise en quarantaine des personnes infectées, etc. Alors ce pays, en laissant circuler librement ce pathogène, va adopter, consciemment ou non, la stratégie de l’immunité collective.&lt;/p&gt;
+
+&lt;p&gt;L’idée est relativement simple : la plupart des pathogènes qui circulent au sein d’une population &lt;strong&gt;immunisent pour un temps donné&lt;/strong&gt; les personnes qui ont été infectées. Au cours du temps, le pathogène aura donc de plus en plus de difficultés à trouver des hôtes potentiels sur son chemin pour poursuivre sa progression. La population dans son ensemble sera donc immunisée, même si tous les individus ne le sont pas. Lorsque le pathogène disparaît, si la durée de cette immunité acquise est relativement faible (quelques mois ou années) et à la faveur du renouvellement des populations, par les migrations et les naissances, le taux de personnes immunisées dans la population va progressivement diminuer et le risque qu’une ré-émergence du pathogène donne lieu à une épidémie va augmenter.&lt;/p&gt;
+
+&lt;p&gt;Il faut donc distinguer le &lt;strong&gt;taux de personnes immunisées&lt;/strong&gt;, qui correspond à la proportion de personnes immunisées dans l’ensemble de la population, et le &lt;strong&gt;taux d’immunité collective&lt;/strong&gt; qui est un seuil, un objectif à atteindre calculé selon les caractéristiques propres au pathogène en question. Le taux d’immunité collective est un &lt;strong&gt;indicateur statistique&lt;/strong&gt; très utile pour guider les politiques publiques, en matière de campagnes de vaccination par exemple : quelle proportion de la population faut-il vacciner pour atteindre cette protection collective contre un pathogène ?&lt;/p&gt;
+
+&lt;p&gt;Il faut que le taux de personnes immunisées soit supérieur au taux d’immunité collective au moment où le pathogène est introduit dans la population pour que sa propagation soit fortement limitée et ne cause pas d’épidémie. La connaissance de ce taux peut également servir à évaluer le risque d’observer un reflux épidémique, c’est-à-dire une deuxième vague épidémique, selon le taux de personnes immunisées à la suite d’une première vague épidémique.
+En cas d’immunité non permanente au pathogène (comme cela semble être le cas pour le SARS-CoV-2), il faut également veiller à renouveler l’immunité de la population pour toujours rester au-dessus du taux d’immunité collective, afin d’éviter une nouvelle épidémie.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Attention cependant :&lt;/strong&gt; l’immunité collective, en tant qu’indicateur statistique global, ne doit pas être utilisé au niveau individuel pour déterminer son propre risque d’être infecté en un lieu. Ce serait une erreur de raisonnement que de calculer un risque individuel à partir de statistiques agrégées.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/posts/Q8-dessin.jpg&quot; class=&quot;full-size&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;un-monde-simplifié-pour-comprendre-limmunité-collective&quot;&gt;Un monde simplifié pour comprendre l’immunité collective&lt;/h3&gt;
+
+&lt;p&gt;Dans le modèle qui suit, nous disposons d’une population de 22 201 individus représentés par des carrés. Ces individus peuvent prendre 3 états distincts : sains, infectés (et donc contagieux) ou immunisés après avoir été infectés pendant un certain temps. Nous faisons l’hypothèse ici d’une immunité permanente : un même individu ne peut pas être réinfecté par le pathogène. Chaque individu a exactement 8 “voisins”. Ce ne sont pas vraiment des voisins au sens “les gens qui habitent à côté de chez moi”, mais plutôt des gens avec qui l’individu peut potentiellement être en contact au cours d’une journée (à titre de comparaison, une &lt;a href=&quot;https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0050074&quot;&gt;étude menée en 2008&lt;/a&gt; donnait un nombre moyen de contacts quotidiens égal à 13,4). Dans notre modèle, les individus sains peuvent rencontrer chaque jour entre 0 et 8 de leurs voisins. Chaque rencontre avec une personne infectée comporte un risque de transmission du pathogène à l’individu sain.&lt;/p&gt;
+
+&lt;p&gt;Grâce à ce modèle, nous allons essayer de &lt;strong&gt;déterminer le taux d’immunité collective qui permettra d’éviter une épidémie dans notre population&lt;/strong&gt;, à partir d’une seule personne infectée au départ.&lt;/p&gt;
+
+&lt;p&gt;La vidéo suivante montre la propagation du pathogène dans la population. Les personnes saines sont représentées en beige, les personnes infectées en bleu et les personnes guéries et immunisées en marron. La proportion de personnes immunisées initialement est de 0% dans la vidéo en haut à gauche, de 20% en haut à droite, de 40% en bas à gauche et de 50% en bas à droite.&lt;/p&gt;
+
+&lt;video controls=&quot;&quot; loop=&quot;&quot; autoplay=&quot;&quot; class=&quot;small-size&quot;&gt;
+  &lt;source src=&quot;/img/posts/Q8-simu.webm&quot; type=&quot;video/webm&quot; /&gt;
+&lt;/video&gt;
+
+&lt;p&gt;Les graphes ci-dessous représentent l’évolution de la proportion d’individus dans chaque catégorie au cours de la simulation et correspondent aux vidéos juste au-dessus, dans le même ordre.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/posts/Q8-simu0-fr.png&quot; class=&quot;half-size&quot; style=&quot;float:left;&quot; /&gt;
+&lt;img src=&quot;/img/posts/Q8-simu20-fr.png&quot; class=&quot;half-size&quot; style=&quot;float:right;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/posts/Q8-simu40-fr.png&quot; class=&quot;half-size&quot; style=&quot;float:left;&quot; /&gt;
+&lt;img src=&quot;/img/posts/Q8-simu50-fr.png&quot; class=&quot;half-size&quot; style=&quot;float:right; clear: right;&quot; /&gt;&lt;/p&gt;
+
+&lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+
+&lt;p&gt;Sans surprise, plus le taux de personnes immunisées au départ est faible, plus le nombre de personnes ayant été infectées à la fin est grand.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Proportion initiale&lt;br /&gt;d’immunisation&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Proportion finale&lt;br /&gt;d’infections&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;0%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;99,97%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;20%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;99,69%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;40%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;95,03%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;50%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;2,2%&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Dans les trois premiers cas, on ne peut donc pas parler d’immunité collective, puisque l’immunité de 20 ou 40% de la population ne protège en rien les 80 ou 60% qui étaient sains au départ. En revanche, si on augmente à 50% la proportion de personnes immunisées, alors la diffusion du pathogène à partir d’un seul foyer d’infection initial ne parvient pas à se transformer en une épidémie : l’immunité collective a fonctionné et a permis de préserver une grande partie de la population initialement saine.&lt;/p&gt;
+
+&lt;p&gt;La recherche de ce &lt;strong&gt;gain marginal optimal&lt;/strong&gt;, qui fait qu’une faible proportion supplémentaire de personnes immunisées (10% de plus) permet de réduire drastiquement le nombre de nouveaux cas d’infections, est le coeur de la recherche du taux d’immunité collective.&lt;/p&gt;
+
+&lt;p&gt;Si on reporte sur un graphique la proportion de personnes infectées à la fin d’une simulation (axe vertical) en fonction de différentes valeurs du taux de personnes immunisées à l’initialisation (axe horizontal), il est possible de déterminer graphiquement le taux d’immunité collective. Avec les paramètres employés, ici très favorables à la diffusion du pathogène, la proportion de personnes saines infectées à la fin de la simulation reste supérieure à 90% pour des taux d’immunisation jusqu’à 40%. À 45% de personnes immunisées initialement, on observe une légère diminution de la proportion finale de personnes infectées mais celle-ci reste toujours très élevée, à 77%. Il n’y a donc pas d’immunité de groupe dans ces cas là. Un &lt;strong&gt;effet de seuil&lt;/strong&gt; significatif apparaît entre 45 et 50% d’immunisés : on voit une chute soudaine de la proportion de personnes infectées de 77% à 14% ! Ainsi, &lt;strong&gt;5% de personnes immunisées supplémentaires au départ entraînent une diminution de plus de 60% des nouveaux cas enregistrés&lt;/strong&gt; : l’immunité collective a fonctionné ! Et en poussant la proportion de personnes immunisées à 55%, on obtient seulement 1% de cas d’infections.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/posts/Q8-tauxImmuniteCollective-fr.png&quot; class=&quot;half-size&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Le graphique ci-dessus présente les moyennes de la proportion finale de personnes saines obtenues lorsqu’on simule 1 000 fois le modèle pour une valeur donnée de la proportion initiale de personnes immunisées.&lt;/p&gt;
+
+&lt;h4 id=&quot;le-simulateur--à-vous-de-jouer-&quot;&gt;Le simulateur : à vous de jouer !&lt;/h4&gt;
+
+&lt;p&gt;On commence par choisir la proportion de personnes immunisées initialement (entre 0 et 100%), puis on sélectionne la manière dont la population sera distribuée dans le monde avec le paramètre &lt;strong&gt;monde-spatialise?&lt;/strong&gt; : soit aléatoirement (case décochée), soit spatialement structurée en Est/Ouest (case cochée). On définit les valeurs des paramètres que l’on souhaite tester, puis on initialise l’espace de simulation avec &lt;strong&gt;Initialiser&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;À l’initialisation, un cas infecté est positionné aléatoirement dans la zone. À chaque fois que l’on clique sur initialisation, une nouvelle configuration spatiale apparaît. Le bouton &lt;strong&gt;Simuler&lt;/strong&gt; lance la simulation. Des graphiques et des compteurs permettent de visualiser l’évolution de l’état de santé de la population. Selon le taux initial d’immunité de la population, le pathogène peut ne pas se propager ou s’arrêter dans sa progression. Vous pouvez alors décider d’introduire une ou plusieurs autres personnes infectées (valeur à déterminer par le curseur &lt;strong&gt;nb-nouvelles-infections&lt;/strong&gt;) et valider ce choix (cliquer sur &lt;strong&gt;infecter de nouvelles personnes&lt;/strong&gt;). Vous pouvez également choisir de créer de nouveaux cas en cours de simulation, pour représenter par exemple l’importation de nouveaux cas. Les sections qui suivent sont des exemples de scénarios qu’il est possible de tester avec ce simulateur. Vous pouvez par exemple observer commment varie le taux d’immunité collective lorsque le taux de transmission du pathogène ou la durée de contagiosité évoluent.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Attention :&lt;/strong&gt; le modèle que nous vous présentons est &lt;strong&gt;stochastique&lt;/strong&gt;. Cela signifie que certains des mécanismes représentés dans le modèle comportent des &lt;strong&gt;effets aléatoires&lt;/strong&gt;. C’est le cas par exemple lors de l’initialisation du modèle : le choix des individus qui seront immunisés au départ est aléatoire, de même que le choix de la première personne infectée. C’est pourquoi lancer la simulation plusieurs fois avec les mêmes valeurs de paramètres donnera toujours des valeurs finales différentes, même si elles restent proches.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Si la fenêtre du simulateur est tronquée à l’affichage, il vous suffit d’effectuer un zoom arrière.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;#&quot; class=&quot;btn btn-primary&quot; onclick=&quot;loadIframeSimulator(8, this); return false;&quot;&gt;Modèle pour simuler l’immunité collective&lt;/a&gt;&lt;/p&gt;
+&lt;div class=&quot;iframeContainer&quot;&gt;&lt;/div&gt;
+
+&lt;p&gt;Pour en savoir plus sur l’immunité collective en général et les pièges à éviter, nous vous invitons à cliquer sur le bouton “Aller plus loin” ci-dessous. Pour plus d’informations sur l’immunité collective dans le cadre de l’épidémie actuelle de COVID-19, un autre post est en préparation !&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Rappel : les modèles développés sur ce site sont des modèles pédagogiques, bien plus simples que les modèles construits et mis en oeuvre par d’autres équipes scientifiques travaillant sur la COVID-19. Ils ne se substituent pas à ces modèles de référence et ne peuvent pas être utilisés à leur place pour mener des expertises, diagnostics ou pronostics. Notre objectif est de contribuer à la création, au sein de la population, d’une meilleure connaissance des moteurs de cette épidémie qui nous concerne toutes et tous.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/2020/04/01/q8-1.html&quot; class=&quot;btn btn-primary&quot;&gt;Aller plus loin&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">« Laissez faire, laissez passer, le monde va de lui-même » disait D. de Gournay (économiste qui introduisit la pensée libérale en France au 18ème siècle). Supposons qu’un pathogène (c’est-à-dire une entité qui provoque des maladies, comme un virus ou une bactérie par exemple) contre lequel aucun vaccin ne soit disponible arrive dans un pays. Supposons également qu’aucune mesure de mitigation ne soit mise en place pour limiter sa diffusion : pas de fermeture des frontières, pas de confinement des personnes, pas de dépistage ni de mise en quarantaine des personnes infectées, etc. Alors ce pays, en laissant circuler librement ce pathogène, va adopter, consciemment ou non, la stratégie de l’immunité collective.</summary></entry></feed>
